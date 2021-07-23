@@ -385,13 +385,8 @@ http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50649
 #EXTINF:-1 tvg-name="TOLO TV" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSivQl16KZWziJvXjFAix4XTrstGlr6JzLNGl3XMiv_DgfmyWyX_u8PxQ" group-title="AFGHANISTAN",TOLO TV
 http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50649
 
-
-#EXTINF:-1 tvg-id="" tvg-name="| AFG | Tolo HD AFG" tvg-logo="" group-title="AS| AFGHANISTAN",| AFG | Tolo HD AFG
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50649
-
-#EXTINF:-1 tvg-id="" tvg-name="| AFG | Tolo News HD AFG" tvg-logo="" group-title="AS| AFGHANISTAN",| AFG | Tolo News HD AFG
+#EXTINF:-1 tvg-name="TOLO News HD" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSivQl16KZWziJvXjFAix4XTrstGlr6JzLNGl3XMiv_DgfmyWyX_u8PxQ" group-title="AFGHANISTAN",TOLO News
 http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50650
-
 
 
 #EXTINF:-1 tvg-name="Andisheh" tvg-logo="https://i.imgur.com/yCFIC60.jpg" group-title="AFGHANISTAN",Andisheh
