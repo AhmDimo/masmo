@@ -376,12 +376,14 @@ http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160498
 http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160497
 
 
+;AFGHANISTAn
+
 #EXTINF:-1 tvg-name="*** AFGHANISTAN - github.com/free-iptv" group-title="AFGHANISTAN" tvg-logo="https://i.imgur.com/f7pAUiw.png",*** AFGHANISTAN - github.com/free-iptv
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 
-#EXTINF:0 tvg-name="TOLO TV" tvg-language="Pashto" tvg-country="AF" tvg-id="TOLO TV" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSivQl16KZWziJvXjFAix4XTrstGlr6JzLNGl3XMiv_DgfmyWyX_u8PxQ" group-title="Entertainment",TOLO TV (Entertainment) (AF) (Pashto)
-http://208.93.117.113/live/Streamm22/playlist.m3u8
 
+#EXTINF:-1 tvg-name="TOLO TV" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSivQl16KZWziJvXjFAix4XTrstGlr6JzLNGl3XMiv_DgfmyWyX_u8PxQ" group-title="AFGHANISTAN",TOLO TV
+hhttp://208.93.117.113/live/Streamm22/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="Andisheh" tvg-logo="https://i.imgur.com/yCFIC60.jpg" group-title="AFGHANISTAN",Andisheh
