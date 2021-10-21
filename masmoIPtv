@@ -1,30 +1,27 @@
 ;Iran 
 
-#EXTINF:-1 tvg-name="Maah" " group-title="Iran",Maah 
+#EXTINF:-1 tvg-name="Maah" " group-title="IRAN",Maah 
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296300
 
-#EXTINF:-1 tvg-id="" tvg-name="Hod Farsi" " group-title="Iran",Hod Farsi
+#EXTINF:-1 tvg-id="" tvg-name="Hod Farsi" " group-title="IRAN",Hod Farsi
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296298
-
-
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- GEM Junior" tvg-logo="" group-title="AS| IRAN",|Iran|- GEM Junior
+#EXTINF:-1 tvg-id="" tvg-name="GEM Junior" tvg-logo="" group-title="IRAN" GEM Junior
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296297
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Classic" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Classic
+#EXTINF:-1 tvg-id="" tvg-name="Gem Classic" tvg-logo="" group-title="IRAN",Gem Classic
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296296
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Maah TV" tvg-logo="" group-title="AS| IRAN",|Iran|- Maah TV
-http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296295
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Food" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Food
+#EXTINF:-1 tvg-id="" tvg-name="Gem Food" tvg-logo="" group-title="IRAN",Gem Food
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296294
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Persiana Cinema HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Persiana Cinema HD
+#EXTINF:-1 tvg-id="" tvg-name="Persiana Cinema HD" tvg-logo="" group-title="IRAN", Persiana Cinema HD
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296293
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Series" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Series
+#EXTINF:-1 tvg-id="" tvg-name="Gem Series" tvg-logo="" group-title="IRAN",Gem Series
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296292
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Persiana Family HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Persiana Family HD
+#EXTINF:-1 tvg-id="" tvg-name="Persiana Family HD" tvg-logo="" group-title="IRAN",Persiana Family HD
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296291
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Life" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Life
+#EXTINF:-1 tvg-id="" tvg-name="Gem Life" tvg-logo="" group-title="IRAN", Gem Life
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296290
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Rubix TV" tvg-logo="" group-title="AS| IRAN",|Iran|- Rubix TV
+#EXTINF:-1 tvg-id="" tvg-name="Rubix TV" tvg-logo="" group-title="IRAN",Rubix TV
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296289
+
 #EXTINF:-1 tvg-id="" tvg-name="|Iran|- ITN" tvg-logo="" group-title="AS| IRAN",|Iran|- ITN
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296288
 #EXTINF:-1 tvg-id="" tvg-name="|Iran|- VOA PERSIAN IR" tvg-logo="" group-title="AS| IRAN",|Iran|- VOA PERSIAN IR
