@@ -30,12 +30,20 @@ http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296287
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296286
 #EXTINF:-1 tvg-id="" tvg-name="Manoto 1" tvg-logo="" group-title="IRAN" Manoto 1
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296285
+
 #EXTINF:-1 tvg-id="" tvg-name="Iran International HD" tvg-logo="" group-title="IRAN" Iran International HD
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296284
+
+#EXTINF:-1 tvg-name="Iran International HD" " group-title="IRAN",Iran International HD 
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296284
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Iran International TV" tvg-logo="" group-title="IRAN",Iran International TV
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296283
 #EXTINF:-1 tvg-id="" tvg-name="BBC Persian" tvg-logo="" group-title="IRAN",- BBC Persian
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296282
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="|Iran|- Varzesh" tvg-logo="" group-title="AS| IRAN",|Iran|- Varzesh
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296281
