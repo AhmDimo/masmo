@@ -5,7 +5,8 @@ http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296300
 
 #EXTINF:-1 tvg-id="" tvg-name="Hod Farsi" " group-title="IRAN",Hod Farsi
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296298
-#EXTINF:-1 tvg-id="" tvg-name="GEM Junior" tvg-logo="" group-title="IRAN" GEM Junior
+
+#EXTINF:-1 tvg-id="" tvg-name="GEM Junior" " group-title="IRAN" GEM Junior
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296297
 #EXTINF:-1 tvg-id="" tvg-name="Gem Classic" tvg-logo="" group-title="IRAN",Gem Classic
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296296
@@ -21,21 +22,21 @@ http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296291
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296290
 #EXTINF:-1 tvg-id="" tvg-name="Rubix TV" tvg-logo="" group-title="IRAN",Rubix TV
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296289
-
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- ITN" tvg-logo="" group-title="AS| IRAN",|Iran|- ITN
+#EXTINF:-1 tvg-id="" tvg-name="ITN" tvg-logo="" group-title="IRAN" ITN
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296288
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- VOA PERSIAN IR" tvg-logo="" group-title="AS| IRAN",|Iran|- VOA PERSIAN IR
+#EXTINF:-1 tvg-id="" tvg-name="VOA PERSIAN IR" tvg-logo="" group-title="IRAN", VOA PERSIAN IR
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296287
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Persiana music HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Persiana music HD
+#EXTINF:-1 tvg-id="" tvg-name="Persiana music HD" tvg-logo="" group-title="IRAN",Persiana music HD
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296286
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Manoto 1" tvg-logo="" group-title="AS| IRAN",|Iran|- Manoto 1
+#EXTINF:-1 tvg-id="" tvg-name="Manoto 1" tvg-logo="" group-title="IRAN" Manoto 1
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296285
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Iran International HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Iran International HD
+#EXTINF:-1 tvg-id="" tvg-name="Iran International HD" tvg-logo="" group-title="IRAN" Iran International HD
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296284
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Iran International TV" tvg-logo="" group-title="AS| IRAN",|Iran|- Iran International TV
+#EXTINF:-1 tvg-id="" tvg-name="Iran International TV" tvg-logo="" group-title="IRAN",Iran International TV
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296283
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- BBC Persian" tvg-logo="" group-title="AS| IRAN",|Iran|- BBC Persian
+#EXTINF:-1 tvg-id="" tvg-name="BBC Persian" tvg-logo="" group-title="IRAN",- BBC Persian
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296282
+
 #EXTINF:-1 tvg-id="" tvg-name="|Iran|- Varzesh" tvg-logo="" group-title="AS| IRAN",|Iran|- Varzesh
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296281
 #EXTINF:-1 tvg-id="" tvg-name="|Iran|- Varzesh (1000)" tvg-logo="" group-title="AS| IRAN",|Iran|- Varzesh (1000)
