@@ -1,150 +1,621 @@
 ;Iran 
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Maah" tvg-logo="" group-title="AS| IRAN",|Iran|- Maah
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296300
 
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- MBC Persia" tvg-logo="" group-title="AS| IRAN",|Iran|- MBC Persia
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58003
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem HD IR" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem HD IR
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58004
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Series HD IR" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Series HD IR
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58005
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- River HD IR" tvg-logo="" group-title="AS| IRAN",|Iran|- River HD IR
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58006
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- 24B HD IR" tvg-logo="" group-title="AS| IRAN",|Iran|- 24B HD IR
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58007
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Rubix HD IR" tvg-logo="" group-title="AS| IRAN",|Iran|- Rubix HD IR
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58008
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- IRIB TV 1" tvg-logo="" group-title="AS| IRAN",|Iran|- IRIB TV 1
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58009
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- IRIB TV 2" tvg-logo="" group-title="AS| IRAN",|Iran|- IRIB TV 2
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58010
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- IRIB TV 3" tvg-logo="" group-title="AS| IRAN",|Iran|- IRIB TV 3
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58011
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- IRIB TV 4" tvg-logo="" group-title="AS| IRAN",|Iran|- IRIB TV 4
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58012
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- IRIB TV 5" tvg-logo="" group-title="AS| IRAN",|Iran|- IRIB TV 5
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58013
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- IRIB Quran" tvg-logo="" group-title="AS| IRAN",|Iran|- IRIB Quran
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58014
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- IRIB NASIM IR" tvg-logo="" group-title="AS| IRAN",|Iran|- IRIB NASIM IR
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58015
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Jame Jam" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Jame Jam
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58016
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Ilam" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Ilam
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58017
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Al Borz" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Al Borz
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58018
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Golestan" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Golestan
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58019
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Sahand" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Sahand
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58020
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Kordestan" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Kordestan
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58021
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Shoma" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Shoma
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58022
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Khorasanrazavi" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Khorasanrazavi
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58023
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Abadan" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Abadan
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58024
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Esfahan" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Esfahan
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58025
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Khorasan Jonoobi" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Khorasan Jonoobi
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58026
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Mazandaran" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Mazandaran
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58027
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Aflak" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Aflak
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58028
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Kerman" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Kerman
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58029
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Aftab" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Aftab
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58030
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Kermanshah" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Kermanshah
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58031
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Baran" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Baran
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58032
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Dena" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Dena
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58034
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Eshragh" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Eshragh
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58035
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Fars" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Fars
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58036
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Hamedan" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Hamedan
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58037
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Yazd" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Yazd
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58038
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Jahanbin" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Jahanbin
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58039
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Hamoon" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Hamoon
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58040
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Khoozestan" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Khoozestan
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58041
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Azarbayjan" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Azarbayjan
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58042
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Qazvin" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Qazvin
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58043
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Semnan" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Semnan
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58044
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- BBC Persian" tvg-logo="" group-title="AS| IRAN",|Iran|- BBC Persian
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58045
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Iran International TV" tvg-logo="" group-title="AS| IRAN",|Iran|- Iran International TV
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58046
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Iran International HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Iran International HD
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58047
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Press TV IR HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Press TV IR HD
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58048
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Press TV IR" tvg-logo="" group-title="AS| IRAN",|Iran|- Press TV IR
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58049
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Manootoo HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Manootoo HD
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58050
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Manoto 1" tvg-logo="" group-title="AS| IRAN",|Iran|- Manoto 1
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58051
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Didgah TV" tvg-logo="" group-title="AS| IRAN",|Iran|- Didgah TV
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58052
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- PMC HD" tvg-logo="" group-title="AS| IRAN",|Iran|- PMC HD
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58053
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- PMC" tvg-logo="" group-title="AS| IRAN",|Iran|- PMC
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58054
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- CNN International" tvg-logo="" group-title="AS| IRAN",|Iran|- CNN International
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58055
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Modern Economy" tvg-logo="" group-title="AS| IRAN",|Iran|- Modern Economy
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58056
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- VOA PERSIAN IR" tvg-logo="" group-title="AS| IRAN",|Iran|- VOA PERSIAN IR
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58057
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- ITN" tvg-logo="" group-title="AS| IRAN",|Iran|- ITN
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58058
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Mifa Music HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Mifa Music HD
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58059
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Mifa Music" tvg-logo="" group-title="AS| IRAN",|Iran|- Mifa Music
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58060
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Rubix TV" tvg-logo="" group-title="AS| IRAN",|Iran|- Rubix TV
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58061
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- River TV" tvg-logo="" group-title="AS| IRAN",|Iran|- River TV
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58062
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- GEM TV" tvg-logo="" group-title="AS| IRAN",|Iran|- GEM TV
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58063
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Life" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Life
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58064
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem AZ" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem AZ
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58065
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- GEM Bollywood" tvg-logo="" group-title="AS| IRAN",|Iran|- GEM Bollywood
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58066
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Series" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Series
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58067
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Arabia" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Arabia
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58068
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Food" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Food
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58069
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Drama" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Drama
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58070
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Classic" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Classic
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58071
+#EXTINF:-1 tvg-name="Maah" " group-title="Iran",Maah 
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50650
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Hod Farsi" tvg-logo="" group-title="AS| IRAN",|Iran|- Hod Farsi
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296298
 #EXTINF:-1 tvg-id="" tvg-name="|Iran|- GEM Junior" tvg-logo="" group-title="AS| IRAN",|Iran|- GEM Junior
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58072
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Academy" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Academy
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58073
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Korea" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Korea
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58074
-#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Comedy" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Comedy
-http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/58075
-
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296297
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Classic" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Classic
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296296
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Maah TV" tvg-logo="" group-title="AS| IRAN",|Iran|- Maah TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296295
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Food" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Food
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296294
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Persiana Cinema HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Persiana Cinema HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296293
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Series" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Series
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296292
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Persiana Family HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Persiana Family HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296291
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Life" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Life
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296290
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Rubix TV" tvg-logo="" group-title="AS| IRAN",|Iran|- Rubix TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296289
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- ITN" tvg-logo="" group-title="AS| IRAN",|Iran|- ITN
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296288
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- VOA PERSIAN IR" tvg-logo="" group-title="AS| IRAN",|Iran|- VOA PERSIAN IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296287
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Persiana music HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Persiana music HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296286
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Manoto 1" tvg-logo="" group-title="AS| IRAN",|Iran|- Manoto 1
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296285
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Iran International HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Iran International HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296284
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Iran International TV" tvg-logo="" group-title="AS| IRAN",|Iran|- Iran International TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296283
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- BBC Persian" tvg-logo="" group-title="AS| IRAN",|Iran|- BBC Persian
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296282
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Varzesh" tvg-logo="" group-title="AS| IRAN",|Iran|- Varzesh
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296281
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Varzesh (1000)" tvg-logo="" group-title="AS| IRAN",|Iran|- Varzesh (1000)
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296280
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- TV 3 (1000)" tvg-logo="" group-title="AS| IRAN",|Iran|- TV 3 (1000)
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296279
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- TM TV" tvg-logo="" group-title="AS| IRAN",|Iran|- TM TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296278
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Persiana documentary HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Persiana documentary HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296277
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Tik TV" tvg-logo="" group-title="AS| IRAN",|Iran|- Tik TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296276
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Salamat" tvg-logo="" group-title="AS| IRAN",|Iran|- Salamat
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296275
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Mostanad" tvg-logo="" group-title="AS| IRAN",|Iran|- Mostanad
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296274
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Klick Sat" tvg-logo="" group-title="AS| IRAN",|Iran|- Klick Sat
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296273
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  AMC TV Afghanistan" tvg-logo="" group-title="AS| IRAN",|IRAN|  AMC TV Afghanistan
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296272
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Afghanistan TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Afghanistan TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296271
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Ofogh" tvg-logo="" group-title="AS| IRAN",|Iran|- Ofogh
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296270
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Nasim" tvg-logo="" group-title="AS| IRAN",|Iran|- Nasim
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296269
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Shoma" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Shoma
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296268
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Sahand" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Sahand
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296267
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- IRIB NASIM IR" tvg-logo="" group-title="AS| IRAN",|Iran|- IRIB NASIM IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296266
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- IRIB Quran" tvg-logo="" group-title="AS| IRAN",|Iran|- IRIB Quran
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296265
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- UEL TV" tvg-logo="" group-title="AS| IRAN",|Iran|- UEL TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296264
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Irib Quran TV" tvg-logo="" group-title="AS| IRAN",|Iran|- Irib Quran TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296263
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Series HD IR" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Series HD IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296262
+#EXTINF:-1 tvg-id="" tvg-name="|IR| IRIB VARZESH IR" tvg-logo="" group-title="AS| IRAN",|IR| IRIB VARZESH IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296261
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Zhwandoon TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Zhwandoon TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296260
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Your Time TV HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Your Time TV HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296259
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Zagros TV (Kermanshah) IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Zagros TV (Kermanshah) IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296258
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Varzesh IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Varzesh IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296257
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB TV5 IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB TV5 IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296256
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB TV 5 HD IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB TV 5 HD IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296255
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB TV 4 HD IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB TV 4 HD IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296254
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB TV3 IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB TV3 IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296253
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB TV 3 HD IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB TV 3 HD IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296252
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB TV2 IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB TV2 IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296251
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB TV 2 HD IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB TV 2 HD IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296250
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB TV 1 IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB TV 1 IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296249
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB TV 1 HD IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB TV 1 HD IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296248
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Tabarestan TV (Mazandaran) IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Tabarestan TV (Mazandaran) IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296247
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Taban TV (Yazd) IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Taban TV (Yazd) IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296246
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Shoma IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Shoma IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296245
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Salamat IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Salamat IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296244
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahar Urdu TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahar Urdu TV IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296243
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahar Francophone IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahar Francophone IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296242
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahar FR-BIH IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahar FR-BIH IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296241
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahar Bosnian IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahar Bosnian IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296240
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahar Azari IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahar Azari IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296239
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahand TV (Tabriz) IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahand TV (Tabriz) IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296238
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB  SABZ TV (Golestan) IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB  SABZ TV (Golestan) IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296237
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sabalan TV (Ardabil) IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sabalan TV (Ardabil) IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296236
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Quran IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Quran IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296235
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Qazvin TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Qazvin TV IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296234
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Ofogh IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Ofogh IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296233
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Noor TV (Qom) IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Noor TV (Qom) IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296232
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Nasim IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Nasim IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296231
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Namayesh IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Namayesh IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296230
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Mostanad HD IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Mostanad HD IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296229
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Mahabad TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Mahabad TV IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296228
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Khozestan TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Khozestan TV IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296227
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Khorasan Razavi TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Khorasan Razavi TV IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296226
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Khalij-e Fars TV (Hormozgan) IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Khalij-e Fars TV (Hormozgan) IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296225
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Kerman TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Kerman TV IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296224
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Isfahan TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Isfahan TV IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296223
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Imam Reza TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Imam Reza TV IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296222
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Ilam TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Ilam TV IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296221
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Hispan TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Hispan TV IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296220
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Hamoon TV (Sistan and Baluchestan) IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Hamoon TV (Sistan and Baluchestan) IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296219
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Boushehr IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Boushehr IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296218
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Baran TV (Guilan) IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Baran TV (Guilan) IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296217
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Azarbajan Gharbi TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Azarbajan Gharbi TV IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296216
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Atrak TV (Khorasan Shomali) IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Atrak TV (Khorasan Shomali) IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296215
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Al Kawthar TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Al Kawthar TV IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296214
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Alborz TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Alborz TV IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296213
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Aflak TV (Lorestan) IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Aflak TV (Lorestan) IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296212
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Abadan TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Abadan TV IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296211
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Your Time TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Your Time TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296210
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  XO TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  XO TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296209
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Vox 2" tvg-logo="" group-title="AS| IRAN",|IRAN|  Vox 2
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296208
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Vox 1" tvg-logo="" group-title="AS| IRAN",|IRAN|  Vox 1
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296207
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  VOA Persian HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  VOA Persian HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296206
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  VLT TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  VLT TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296205
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Varzesh TV card" tvg-logo="" group-title="AS| IRAN",|IRAN|  Varzesh TV card
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296204
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Varzesh TV 2 card" tvg-logo="" group-title="AS| IRAN",|IRAN|  Varzesh TV 2 card
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296203
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Varzesh 4" tvg-logo="" group-title="AS| IRAN",|IRAN|  Varzesh 4
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296202
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Varzesh 3" tvg-logo="" group-title="AS| IRAN",|IRAN|  Varzesh 3
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296201
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Varzesh 2" tvg-logo="" group-title="AS| IRAN",|IRAN|  Varzesh 2
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296200
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Varzesh 1" tvg-logo="" group-title="AS| IRAN",|IRAN|  Varzesh 1
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296199
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  U Toon" tvg-logo="" group-title="AS| IRAN",|IRAN|  U Toon
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296198
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  TV 24" tvg-logo="" group-title="AS| IRAN",|IRAN|  TV 24
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296197
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  TV-SUGHD" tvg-logo="" group-title="AS| IRAN",|IRAN|  TV-SUGHD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296196
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  TV-Kulob" tvg-logo="" group-title="AS| IRAN",|IRAN|  TV-Kulob
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296195
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  TV-Khatlon" tvg-logo="" group-title="AS| IRAN",|IRAN|  TV-Khatlon
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296194
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  TV-Badakhshon" tvg-logo="" group-title="AS| IRAN",|IRAN|  TV-Badakhshon
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296193
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  TooshehTV" tvg-logo="" group-title="AS| IRAN",|IRAN|  TooshehTV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296192
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  TOLO NEWS HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  TOLO NEWS HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296191
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  TOLO HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  TOLO HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296190
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Tojikiston" tvg-logo="" group-title="AS| IRAN",|IRAN|  Tojikiston
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296189
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  TM TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  TM TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296188
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  TM TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  TM TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296187
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  TMT" tvg-logo="" group-title="AS| IRAN",|IRAN|  TMT
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296186
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  TISHK TV HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  TISHK TV HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296185
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  TISHK TV HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  TISHK TV HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296184
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Test Card" tvg-logo="" group-title="AS| IRAN",|IRAN|  Test Card
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296183
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Tehran TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Tehran TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296182
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Tapesh Tv" tvg-logo="" group-title="AS| IRAN",|IRAN|  Tapesh Tv
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296181
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  TAPESH HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  TAPESH HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296180
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Tamadon" tvg-logo="" group-title="AS| IRAN",|IRAN|  Tamadon
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296179
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  TALA KIDS" tvg-logo="" group-title="AS| IRAN",|IRAN|  TALA KIDS
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296178
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  SOLH TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  SOLH TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296177
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  SL two" tvg-logo="" group-title="AS| IRAN",|IRAN|  SL two
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296176
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  SL one" tvg-logo="" group-title="AS| IRAN",|IRAN|  SL one
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296175
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Sinamo" tvg-logo="" group-title="AS| IRAN",|IRAN|  Sinamo
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296174
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Sharq TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Sharq TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296173
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Shamshad" tvg-logo="" group-title="AS| IRAN",|IRAN|  Shamshad
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296172
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Shabakeh7" tvg-logo="" group-title="AS| IRAN",|IRAN|  Shabakeh7
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296171
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  SAT 7 Pars" tvg-logo="" group-title="AS| IRAN",|IRAN|  SAT 7 Pars
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296170
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Salamut Tube" tvg-logo="" group-title="AS| IRAN",|IRAN|  Salamut Tube
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296169
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Safina" tvg-logo="" group-title="AS| IRAN",|IRAN|  Safina
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296168
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Saba TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Saba TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296167
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  RUBY MUSIC" tvg-logo="" group-title="AS| IRAN",|IRAN|  RUBY MUSIC
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296166
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  RUBIX HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  RUBIX HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296165
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  RUBIX" tvg-logo="" group-title="AS| IRAN",|IRAN|  RUBIX
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296164
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  RT France HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  RT France HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296163
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  RTA SPORTS" tvg-logo="" group-title="AS| IRAN",|IRAN|  RTA SPORTS
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296162
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  RT Arabic HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  RT Arabic HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296161
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  RTA HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  RTA HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296160
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  R Radio" tvg-logo="" group-title="AS| IRAN",|IRAN|  R Radio
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296159
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  R Radio" tvg-logo="" group-title="AS| IRAN",|IRAN|  R Radio
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296158
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Roly TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Roly TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296157
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  RIVER HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  RIVER HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296156
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  RIVER" tvg-logo="" group-title="AS| IRAN",|IRAN|  RIVER
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296155
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  RAPFA" tvg-logo="" group-title="AS| IRAN",|IRAN|  RAPFA
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296154
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Radio Javan SD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Radio Javan SD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296153
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Radio Javan HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Radio Javan HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296152
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Radio Javan HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Radio Javan HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296151
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Radio Javan HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Radio Javan HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296150
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Radio Farda" tvg-logo="" group-title="AS| IRAN",|IRAN|  Radio Farda
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296149
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Poker TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Poker TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296148
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  PN TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  PN TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296147
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Persian Singer" tvg-logo="" group-title="AS| IRAN",|IRAN|  Persian Singer
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296146
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Persian Music" tvg-logo="" group-title="AS| IRAN",|IRAN|  Persian Music
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296145
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Persiana Technology" tvg-logo="" group-title="AS| IRAN",|IRAN|  Persiana Technology
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296144
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Persiana Radio One" tvg-logo="" group-title="AS| IRAN",|IRAN|  Persiana Radio One
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296143
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Persiana Plus" tvg-logo="" group-title="AS| IRAN",|IRAN|  Persiana Plus
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296142
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Persiana Nostalgia" tvg-logo="" group-title="AS| IRAN",|IRAN|  Persiana Nostalgia
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296141
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Persiana Music" tvg-logo="" group-title="AS| IRAN",|IRAN|  Persiana Music
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296140
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Persiana Junior" tvg-logo="" group-title="AS| IRAN",|IRAN|  Persiana Junior
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296139
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Persiana Entertainment" tvg-logo="" group-title="AS| IRAN",|IRAN|  Persiana Entertainment
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296138
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Persiana Billboard" tvg-logo="" group-title="AS| IRAN",|IRAN|  Persiana Billboard
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296137
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Persiana 5" tvg-logo="" group-title="AS| IRAN",|IRAN|  Persiana 5
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296136
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Persiana 4" tvg-logo="" group-title="AS| IRAN",|IRAN|  Persiana 4
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296135
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Persiana 2" tvg-logo="" group-title="AS| IRAN",|IRAN|  Persiana 2
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296134
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Persiana 1 SD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Persiana 1 SD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296133
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Persiana 1" tvg-logo="" group-title="AS| IRAN",|IRAN|  Persiana 1
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296132
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  PARS TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  PARS TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296131
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  OXIR TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  OXIR TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296130
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  ONYX HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  ONYX HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296129
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  OITN" tvg-logo="" group-title="AS| IRAN",|IRAN|  OITN
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296128
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Nujaba" tvg-logo="" group-title="AS| IRAN",|IRAN|  Nujaba
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296127
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  NT TEST CARD 25" tvg-logo="" group-title="AS| IRAN",|IRAN|  NT TEST CARD 25
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296126
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  NT TEST CARD 21" tvg-logo="" group-title="AS| IRAN",|IRAN|  NT TEST CARD 21
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296125
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  NT TEST CARD 15" tvg-logo="" group-title="AS| IRAN",|IRAN|  NT TEST CARD 15
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296124
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  NT TEST CARD 14" tvg-logo="" group-title="AS| IRAN",|IRAN|  NT TEST CARD 14
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296123
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  NT TEST CARD 14" tvg-logo="" group-title="AS| IRAN",|IRAN|  NT TEST CARD 14
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296122
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  NT TEST CARD 13" tvg-logo="" group-title="AS| IRAN",|IRAN|  NT TEST CARD 13
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296121
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  NT TEST CARD 13" tvg-logo="" group-title="AS| IRAN",|IRAN|  NT TEST CARD 13
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296120
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  NT TEST CARD 12" tvg-logo="" group-title="AS| IRAN",|IRAN|  NT TEST CARD 12
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296119
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  NT TEST CARD 11" tvg-logo="" group-title="AS| IRAN",|IRAN|  NT TEST CARD 11
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296118
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  NT TEST CARD 9" tvg-logo="" group-title="AS| IRAN",|IRAN|  NT TEST CARD 9
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296117
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  NT TEST CARD 7" tvg-logo="" group-title="AS| IRAN",|IRAN|  NT TEST CARD 7
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296116
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  NT TEST CARD 5" tvg-logo="" group-title="AS| IRAN",|IRAN|  NT TEST CARD 5
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296115
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  NT TEST CARD 2" tvg-logo="" group-title="AS| IRAN",|IRAN|  NT TEST CARD 2
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296114
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  NT TEST CARD 2" tvg-logo="" group-title="AS| IRAN",|IRAN|  NT TEST CARD 2
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296113
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  NT TEST CARD 1" tvg-logo="" group-title="AS| IRAN",|IRAN|  NT TEST CARD 1
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296112
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Noor TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Noor TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296111
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Navahang" tvg-logo="" group-title="AS| IRAN",|IRAN|  Navahang
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296110
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  My TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  My TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296109
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  MTC" tvg-logo="" group-title="AS| IRAN",|IRAN|  MTC
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296108
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Movie Time" tvg-logo="" group-title="AS| IRAN",|IRAN|  Movie Time
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296107
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  MODERN ECONOMY" tvg-logo="" group-title="AS| IRAN",|IRAN|  MODERN ECONOMY
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296106
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  MI TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  MI TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296105
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Mitra TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Mitra TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296104
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  MIFA MUSIC HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  MIFA MUSIC HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296103
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  MIFA + HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  MIFA + HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296102
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  MBC PERSIA SD" tvg-logo="" group-title="AS| IRAN",|IRAN|  MBC PERSIA SD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296101
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  MBC PERSIA HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  MBC PERSIA HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296100
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  MAXX" tvg-logo="" group-title="AS| IRAN",|IRAN|  MAXX
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296099
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Maah TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Maah TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296098
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  M+" tvg-logo="" group-title="AS| IRAN",|IRAN|  M+
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296097
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  LUX TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  LUX TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296096
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Lux" tvg-logo="" group-title="AS| IRAN",|IRAN|  Lux
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296095
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Loveworld Persia" tvg-logo="" group-title="AS| IRAN",|IRAN|  Loveworld Persia
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296094
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  LEMAR HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  LEMAR HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296093
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Kurdsat SD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Kurdsat SD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296092
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Kurdsat SD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Kurdsat SD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296091
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Kurdsat News SD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Kurdsat News SD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296090
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Kurdsat News SD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Kurdsat News SD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296089
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Kurd Channel HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Kurd Channel HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296088
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Kurd Channel HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Kurd Channel HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296087
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Komala TV - Shora TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Komala TV - Shora TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296086
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Khatereh TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Khatereh TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296085
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Khane Honarmandan" tvg-logo="" group-title="AS| IRAN",|IRAN|  Khane Honarmandan
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296084
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  KHANE FILM" tvg-logo="" group-title="AS| IRAN",|IRAN|  KHANE FILM
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296083
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Kentron TV International" tvg-logo="" group-title="AS| IRAN",|IRAN|  Kentron TV International
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296082
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Kentron TV International" tvg-logo="" group-title="AS| IRAN",|IRAN|  Kentron TV International
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296081
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Kalemeh TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Kalemeh TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296080
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Jahonnamo" tvg-logo="" group-title="AS| IRAN",|IRAN|  Jahonnamo
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296079
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  ITN" tvg-logo="" group-title="AS| IRAN",|IRAN|  ITN
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296078
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  IRIB TV4" tvg-logo="" group-title="AS| IRAN",|IRAN|  IRIB TV4
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296077
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  IRIB TV3" tvg-logo="" group-title="AS| IRAN",|IRAN|  IRIB TV3
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296076
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  IRIB TV2" tvg-logo="" group-title="AS| IRAN",|IRAN|  IRIB TV2
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296075
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  IRIB TV1" tvg-logo="" group-title="AS| IRAN",|IRAN|  IRIB TV1
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296074
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Iran Intl Radio" tvg-logo="" group-title="AS| IRAN",|IRAN|  Iran Intl Radio
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296073
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Iran International Radio" tvg-logo="" group-title="AS| IRAN",|IRAN|  Iran International Radio
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296072
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Iran International HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Iran International HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296071
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Iran International" tvg-logo="" group-title="AS| IRAN",|IRAN|  Iran International
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296070
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Iran International" tvg-logo="" group-title="AS| IRAN",|IRAN|  Iran International
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296069
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Iran International" tvg-logo="" group-title="AS| IRAN",|IRAN|  Iran International
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296068
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  IRAN INTERNATIONAL" tvg-logo="" group-title="AS| IRAN",|IRAN|  IRAN INTERNATIONAL
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296067
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Iran International" tvg-logo="" group-title="AS| IRAN",|IRAN|  Iran International
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296066
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  IRAN INTERNATIONAL" tvg-logo="" group-title="AS| IRAN",|IRAN|  IRAN INTERNATIONAL
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296065
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Iran B Marz" tvg-logo="" group-title="AS| IRAN",|IRAN|  Iran B Marz
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296064
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Imam Hussein TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Imam Hussein TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296063
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  ICNET" tvg-logo="" group-title="AS| IRAN",|IRAN|  ICNET
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296062
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  ICC TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  ICC TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296061
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  HP TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  HP TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296060
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  HOD HOD TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  HOD HOD TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296059
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  HADI TV6" tvg-logo="" group-title="AS| IRAN",|IRAN|  HADI TV6
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296058
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GUNAZ TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  GUNAZ TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296057
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GUNAZ TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  GUNAZ TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296056
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Ghaznawyan TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Ghaznawyan TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296055
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM USA" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM USA
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296054
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM TV HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM TV HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296053
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296052
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM TRAVEL" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM TRAVEL
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296051
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM SERIES HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM SERIES HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296050
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM SERIES" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM SERIES
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296049
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM PROPERTY" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM PROPERTY
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296048
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM NATURE" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM NATURE
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296047
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM LIFE+" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM LIFE+
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296046
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM LATINO" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM LATINO
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296045
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM KIDS" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM KIDS
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296044
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM JUNIOR" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM JUNIOR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296043
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM FOOD" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM FOOD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296042
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM FIT" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM FIT
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296041
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM FILM" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM FILM
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296040
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM DRAMA HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM DRAMA HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296039
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM DRAMA" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM DRAMA
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296038
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM COMEDY" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM COMEDY
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296037
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM CLASSIC" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM CLASSIC
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296036
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM BOLLYWOOD" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM BOLLYWOOD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296035
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM AZ" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM AZ
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296034
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM ARABIA" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM ARABIA
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296033
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  GEM ACADEMY" tvg-logo="" group-title="AS| IRAN",|IRAN|  GEM ACADEMY
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296032
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Ganje Hozour" tvg-logo="" group-title="AS| IRAN",|IRAN|  Ganje Hozour
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296031
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Football-HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Football-HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296030
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Enikass TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Enikass TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296029
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  ELC TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  ELC TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296028
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Dushanbe-HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Dushanbe-HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296027
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Dunya naw TV - farah" tvg-logo="" group-title="AS| IRAN",|IRAN|  Dunya naw TV - farah
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296026
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Didgah TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Didgah TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296025
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  CNN International" tvg-logo="" group-title="AS| IRAN",|IRAN|  CNN International
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296024
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  City TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  City TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296023
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Channel One" tvg-logo="" group-title="AS| IRAN",|IRAN|  Channel One
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296022
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  CGTN" tvg-logo="" group-title="AS| IRAN",|IRAN|  CGTN
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296021
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Beitolabbas" tvg-logo="" group-title="AS| IRAN",|IRAN|  Beitolabbas
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296020
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  BBC Persian" tvg-logo="" group-title="AS| IRAN",|IRAN|  BBC Persian
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296019
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  BBC Arabic" tvg-logo="" group-title="AS| IRAN",|IRAN|  BBC Arabic
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296018
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  BBC Arabic" tvg-logo="" group-title="AS| IRAN",|IRAN|  BBC Arabic
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296017
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Batur TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Batur TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296016
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Bahoriston" tvg-logo="" group-title="AS| IRAN",|IRAN|  Bahoriston
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296015
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  AZADI" tvg-logo="" group-title="AS| IRAN",|IRAN|  AZADI
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296014
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Ayna TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Ayna TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296013
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Ayeneh TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  Ayeneh TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296012
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  AVA Series" tvg-logo="" group-title="AS| IRAN",|IRAN|  AVA Series
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296011
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  AVA Family" tvg-logo="" group-title="AS| IRAN",|IRAN|  AVA Family
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296010
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  A TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  A TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296009
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  ATN News" tvg-logo="" group-title="AS| IRAN",|IRAN|  ATN News
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296008
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  ATN" tvg-logo="" group-title="AS| IRAN",|IRAN|  ATN
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296007
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  ASR TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  ASR TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296006
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Arezo HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Arezo HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296005
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  ANT" tvg-logo="" group-title="AS| IRAN",|IRAN|  ANT
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296004
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Al Hurra HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  Al Hurra HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296003
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  Action 24" tvg-logo="" group-title="AS| IRAN",|IRAN|  Action 24
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296002
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  247Box TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  247Box TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296001
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  30TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  30TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296000
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  30 NEMA" tvg-logo="" group-title="AS| IRAN",|IRAN|  30 NEMA
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/295999
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  24Box TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  24Box TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/295998
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  24B HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  24B HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/295997
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  11TV" tvg-logo="" group-title="AS| IRAN",|IRAN|  11TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/295996
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  4Kurd" tvg-logo="" group-title="AS| IRAN",|IRAN|  4Kurd
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/295995
+#EXTINF:-1 tvg-id="" tvg-name="|IRAN|  1TV HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  1TV HD
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/295994
 
 ;AFGHANISTAn
 
