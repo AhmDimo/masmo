@@ -1,50 +1,627 @@
+#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="|IT| Rai 1HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai1.png" group-title="EU| ITALY",|IT| Rai 1HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50966
+#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="|IT| Rai 1 SD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai1.png" group-title="EU| ITALY",|IT| Rai 1 SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50967
+#EXTINF:-1 tvg-id="" tvg-name="[IT HEVC] RAI 1 4K" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai1.png" group-title="EU| ITALY",[IT HEVC] RAI 1 4K
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/65886
+#EXTINF:-1 tvg-id="" tvg-name="[IT HEVC] RAI 1" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai1.png" group-title="EU| ITALY",[IT HEVC] RAI 1
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/65887
+#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="|IT| Rai 1 FullHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai1.png" group-title="EU| ITALY",|IT| Rai 1 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50965
+#EXTINF:-1 tvg-id="" tvg-name="[IT HEVC] RAI 2 HEVC" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai2.png" group-title="EU| ITALY",[IT HEVC] RAI 2 HEVC
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/65889
+#EXTINF:-1 tvg-id="" tvg-name="[IT HEVC] RAI 2 4K" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai2.png" group-title="EU| ITALY",[IT HEVC] RAI 2 4K
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/65888
+#EXTINF:-1 tvg-id="Rai 2 IT" tvg-name="|IT| Rai 2 FullHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai2.png" group-title="EU| ITALY",|IT| Rai 2 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50968
+#EXTINF:-1 tvg-id="Rai 2 IT" tvg-name="|IT| Rai 2HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai2.png" group-title="EU| ITALY",|IT| Rai 2HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50969
+#EXTINF:-1 tvg-id="Rai 2 IT" tvg-name="|IT| Rai 2 SD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai2.png" group-title="EU| ITALY",|IT| Rai 2 SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50970
+#EXTINF:-1 tvg-id="" tvg-name="[IT HEVC] RAI 3 4K" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai3.png" group-title="EU| ITALY",[IT HEVC] RAI 3 4K
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/65890
+#EXTINF:-1 tvg-id="" tvg-name="[IT HEVC] RAI 3" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai3.png" group-title="EU| ITALY",[IT HEVC] RAI 3
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/65891
+#EXTINF:-1 tvg-id="Rai 2 IT" tvg-name="|IT| Rai 3 FullHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai3.png" group-title="EU| ITALY",|IT| Rai 3 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50971
+#EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="|IT| Rai 3HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai3.png" group-title="EU| ITALY",|IT| Rai 3HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50972
+#EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="|IT| Rai 3 SD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai3.png" group-title="EU| ITALY",|IT| Rai 3 SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50973
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="|IT| Rai 4HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai4.png" group-title="EU| ITALY",|IT| Rai 4HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50974
+#EXTINF:-1 tvg-id="Rai Sport Plus HD IT" tvg-name="|IT| Rai Sport Plus [Multi-Sub].." tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/raisport.png" group-title="EU| ITALY",|IT| Rai Sport Plus [Multi-Sub]..
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50975
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="|IT| Rai 5HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai5.png" group-title="EU| ITALY",|IT| Rai 5HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50976
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="|IT| Canale 5 FullHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/canal5.png" group-title="EU| ITALY",|IT| Canale 5 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50977
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="|IT| Canale 5 HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/canal5.png" group-title="EU| ITALY",|IT| Canale 5 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50978
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="|IT| Mediaset Extra" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/mediasetextra.png" group-title="EU| ITALY",|IT| Mediaset Extra
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50979
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="|IT| Italia 1 FullHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/italia1.png" group-title="EU| ITALY",|IT| Italia 1 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50980
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="|IT|  Italia Uno HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/italia1.png" group-title="EU| ITALY",|IT|  Italia Uno HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50981
+#EXTINF:-1 tvg-id="la7.it" tvg-name="|IT| La 7 HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/la7.png" group-title="EU| ITALY",|IT| La 7 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50982
+#EXTINF:-1 tvg-id="la5.it" tvg-name="|IT| La 5 HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/la5.png" group-title="EU| ITALY",|IT| La 5 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50983
+#EXTINF:-1 tvg-id="La1 IT" tvg-name="|IT| RSI La1 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/LA1HD.png" group-title="EU| ITALY",|IT| RSI La1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50985
+#EXTINF:-1 tvg-id="La2 IT" tvg-name="|IT| RSI La2 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/LA2.png" group-title="EU| ITALY",|IT| RSI La2 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50987
+#EXTINF:-1 tvg-id="La2 IT" tvg-name="|IT| RSI La2 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/LA2.png" group-title="EU| ITALY",|IT| RSI La2 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50988
+#EXTINF:-1 tvg-id="La2 IT" tvg-name="|IT| RSI La2 SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/LA2.png" group-title="EU| ITALY",|IT| RSI La2 SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50989
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="|IT| Sky Uno FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYUNOHD.png" group-title="EU| ITALIA CINEMA",|IT| Sky Uno FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50991
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="|IT| Sky Uno HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYUNOHD.png" group-title="EU| ITALIA CINEMA",|IT| Sky Uno HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50992
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="|IT| SKY UNO 1HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYUNOHD.png" group-title="EU| ITALIA CINEMA",|IT| SKY UNO 1HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50993
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="|IT| Sky Arte HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYARTE.png" group-title="EU| ITALY",|IT| Sky Arte HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50994
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="|IT|  Rai Movie HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RAIMOVIEHD.png" group-title="EU| ITALIA CINEMA",|IT|  Rai Movie HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50995
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="|IT| RAI PREMIUM HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RAIPREMIUMHD.png" group-title="EU| ITALIA CINEMA",|IT| RAI PREMIUM HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50996
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="|IT| Rai Premium" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RAIPREMIUMHD.png" group-title="EU| ITALIA CINEMA",|IT| Rai Premium
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50997
+#EXTINF:-1 tvg-id="fox.it" tvg-name="|IT| Fox FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/FOXFHD.png" group-title="EU| ITALIA CINEMA",|IT| Fox FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50998
+#EXTINF:-1 tvg-id="fox.it" tvg-name="|IT| Fox HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/FOXFHD.png" group-title="EU| ITALIA CINEMA",|IT| Fox HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/50999
+#EXTINF:-1 tvg-id="foxcrime.it" tvg-name="|IT| Fox Crime FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/foxcrime.png" group-title="EU| ITALIA CINEMA",|IT| Fox Crime FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51002
+#EXTINF:-1 tvg-id="foxcrime.it" tvg-name="|IT| Fox Crime HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/FOXCRIME.png" group-title="EU| ITALIA CINEMA",|IT| Fox Crime HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51003
+#EXTINF:-1 tvg-id="la7d.it" tvg-name="|IT| LA7 D HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/la7.png" group-title="EU| ITALY",|IT| LA7 D HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51005
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="|IT| Mediaset Extra" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/mediasetextra.png" group-title="EU| ITALY",|IT| Mediaset Extra
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51006
+#EXTINF:-1 tvg-id="iris.it" tvg-name="|IT| IRIS" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/iris.png" group-title="EU| ITALY",|IT| IRIS
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51008
+#EXTINF:-1 tvg-id="Mediaset Italia Due IT" tvg-name="|IT| MEDIASET ITALIA DUE" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/mediasetextra.png" group-title="EU| ITALY",|IT| MEDIASET ITALIA DUE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51009
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="|IT| RAI SPORT" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/raisport.png" group-title="EU| ITALY",|IT| RAI SPORT
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51012
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="|IT| RAI STORIA HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/raistoria.png" group-title="EU| ITALY",|IT| RAI STORIA HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51013
+#EXTINF:-1 tvg-id="retequattro.it" tvg-name="|IT| Rete 4 FullHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rete.png" group-title="EU| ITALY",|IT| Rete 4 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51014
+#EXTINF:-1 tvg-id="retequattro.it" tvg-name="|IT| Rete 4 HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rete.png" group-title="EU| ITALY",|IT| Rete 4 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51015
+#EXTINF:-1 tvg-id="rtl1025tv.it" tvg-name="|IT| RTL 102.5" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rtl-102.5-logo-png-7.png" group-title="EU| ITALY",|IT| RTL 102.5
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51016
+#EXTINF:-1 tvg-id="Top Calcio 24 IT" tvg-name="|IT| Top Calcio 24" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/skycalcio.png" group-title="EU| ITALY",|IT| Top Calcio 24
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51017
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-name="|IT| TG COM 24" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/tgcom24.png" group-title="EU| ITALY",|IT| TG COM 24
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51018
+#EXTINF:-1 tvg-id="topcrime.it" tvg-name="|IT| Top Crime" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/topcrime.png" group-title="EU| ITALY",|IT| Top Crime
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51019
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="|IT|  Cielo HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/cielo.png" group-title="EU| ITALY",|IT|  Cielo HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51020
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="|IT| Sky Cinema Action FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA1HD.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Action FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51022
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="|IT| Sky Cinema Action SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA1HD.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Action SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51023
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="|IT| Sky Cinema Family SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAFAMILY.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Family SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51024
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="|IT| Sky Cinema Family FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAFAMILY.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Family FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51025
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="|IT| SKY CINEMA FAMILY HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAFAMILY1.png" group-title="EU| ITALIA CINEMA",|IT| SKY CINEMA FAMILY HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51026
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="|IT| Sky Cinema FAMILY" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAFAMILY1.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema FAMILY
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51027
+#EXTINF:-1 tvg-id="skycinemacollection.it" tvg-name="|IT| Sky Cinema Collection FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCENIMA.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Collection FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51028
+#EXTINF:-1 tvg-id="skycinemacollection.it" tvg-name="|IT| Sky Cinema Collection HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCENIMA.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Collection HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51029
+#EXTINF:-1 tvg-id="skycinemacollection.it" tvg-name="|IT| Sky Cinema Collection SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCENIMA.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Collection SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51030
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="|IT| Sky Cinema Suspance FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCENIMA.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Suspance FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51031
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="|IT| Sky Cinema Suspence FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/sky-cinema-suspense-.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Suspence FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51032
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="|IT| Sky Cinema Suspence HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/sky-cinema-suspense-.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Suspence HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51033
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="|IT| Sky Cinema Suspence SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/sky-cinema-suspense-.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Suspence SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51034
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="|IT| Sky Cinema Comedy FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMACOMEDY.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Comedy FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51035
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="|IT| Sky Cinema Comedy HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMACOMEDY.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Comedy HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51036
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="|IT| Sky Cinema Drama FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA-DUE.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Drama FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51038
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="|IT| Sky Cinema Drama HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sky-Cinema-Drama.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Drama HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51039
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="|IT| Cinema Drama HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sky-Cinema-Drama.png" group-title="EU| ITALIA CINEMA",|IT| Cinema Drama HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51040
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="|IT| Sky Cinema Drama SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sky-Cinema-Drama.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Drama SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51041
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="|IT| Sky Atlantic FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYATLANTICFHD.png" group-title="EU| ITALIA CINEMA",|IT| Sky Atlantic FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51042
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="|IT| Sky Atlantic HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYATLANTICFHD.png" group-title="EU| ITALIA CINEMA",|IT| Sky Atlantic HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51043
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="|IT| Sky Cinema Due FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA-DUE.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Due FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51044
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="|IT| Sky Cinema Due HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA-DUE.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Due HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51045
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="|IT| Sky Cinema Uno FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAUNO1.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Uno FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51046
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="|IT| Sky Cinema Due HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA-DUE.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Due HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51047
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="|IT| Sky Cinema Due SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA-DUE.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Due SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51048
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="|IT| Sky Cinema Uno HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA-DUE.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Uno HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51049
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="|IT| Sky Cinema Uno SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAUNO1.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Uno SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51050
+#EXTINF:-1 tvg-id="skycinemadueplus24.it" tvg-name="|IT| Sky Cinema Due 24 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA-DUE.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Due 24 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51051
+#EXTINF:-1 tvg-id="skycinemadueplus24.it" tvg-name="|IT| Sky Cinema DUE    24 FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA-DUE.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema DUE    24 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51052
+#EXTINF:-1 tvg-id="skycinemadueplus24.it" tvg-name="|IT| Sky Cinema Due +24 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sky-Cinema-Drama.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Due +24 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51053
+#EXTINF:-1 tvg-id="skycinemaunoplus24.it" tvg-name="|IT| Sky Cinema Uno 24 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA24.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Uno 24 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51054
+#EXTINF:-1 tvg-id="skycinemaunoplus24.it" tvg-name="|IT| Sky Cinema Uno +24 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA24.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Uno +24 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51055
+#EXTINF:-1 tvg-id="skycinemaunoplus24.it" tvg-name="|IT| Sky Cinema Uno +24 SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA24.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Uno +24 SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51056
+#EXTINF:-1 tvg-id="skycinemadueplus24.it" tvg-name="|IT| Sky Cinema DUO +24 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA24.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema DUO +24 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51057
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="|IT| Sky Cinema 1 FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA1.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema 1 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51058
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="|IT| Sky Cinema 1 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA1.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema 1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51059
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="|IT| Sky Cinema Romance FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYROMANCE.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Romance FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51060
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="|IT| SKY Cinema  Romance HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYROMANCE.png" group-title="EU| ITALIA CINEMA",|IT| SKY Cinema  Romance HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51061
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="|IT| Sky Cinema Romance SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYROMANCE.png" group-title="EU| ITALIA CINEMA",|IT| Sky Cinema Romance SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51062
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="|IT| Cinema Romance HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYROMANCE.png" group-title="EU| ITALIA CINEMA",|IT| Cinema Romance HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51063
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="|IT| Sky Atlantic +1 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYATLANTICFHD.png" group-title="EU| ITALIA CINEMA",|IT| Sky Atlantic +1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51064
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="|IT| Rai Movie HD [Multi-Sub]" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RAIMOVIEHD.png" group-title="EU| ITALIA CINEMA",|IT| Rai Movie HD [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51065
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="|IT| Rai Movie SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RAIMOVIEHD.png" group-title="EU| ITALIA CINEMA",|IT| Rai Movie SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51066
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="|IT| Rai 4 FullHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai4.png" group-title="EU| ITALY",|IT| Rai 4 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51067
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="|IT| Rai 5 FullHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rai5.png" group-title="EU| ITALY",|IT| Rai 5 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51068
+#EXTINF:-1 tvg-id="Comedy Central IT" tvg-name="|IT| Comedy Central HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/COMEDY-CENTRAL.png" group-title="EU| ITALIA CINEMA",|IT| Comedy Central HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51069
+#EXTINF:-1 tvg-id="premiumcinemaenergy.it" tvg-name="|IT| Premium Cinema Energy FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PREMIUMCINEMAENERGY.png" group-title="EU| ITALIA CINEMA",|IT| Premium Cinema Energy FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51071
+#EXTINF:-1 tvg-id="premiumcinemaplus24.it" tvg-name="|IT| Premium Cinema +24 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PREMIUMCINEMA24.png" group-title="EU| ITALIA CINEMA",|IT| Premium Cinema +24 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51074
+#EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="|IT| Premium Crime FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PREMUIM-CRIM.png" group-title="EU| ITALIA CINEMA",|IT| Premium Crime FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51075
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="|IT| Premium" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/premium.png" group-title="EU| ITALIA CINEMA",|IT| Premium
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51077
+#EXTINF:-1 tvg-id="premiumcinemaemotion.it" tvg-name="|IT| Premium Cinema Emotion FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PREMIUMEMOTION.png" group-title="EU| ITALIA CINEMA",|IT| Premium Cinema Emotion FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51078
+#EXTINF:-1 tvg-id="premiumcinemaemotion.it" tvg-name="|IT| Premium Emotion HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PREMIUMEMOTION.png" group-title="EU| ITALIA CINEMA",|IT| Premium Emotion HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51079
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Premium Energy HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PREMIUMCINEMAENERGY.png" group-title="EU| ITALIA CINEMA",|IT| Premium Energy HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51080
+#EXTINF:-1 tvg-id="premiumstories.it" tvg-name="|IT| Premium Stories FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PREMIUMSTORIES.png" group-title="EU| ITALIA CINEMA",|IT| Premium Stories FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51082
+#EXTINF:-1 tvg-id="premiumstories.it" tvg-name="|IT| Premium Stories HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PREMIUMSTORIES.png" group-title="EU| ITALIA CINEMA",|IT| Premium Stories HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51083
+#EXTINF:-1 tvg-id="premiumaction.it" tvg-name="|IT| Premium Action FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/premium-action.png" group-title="EU| ITALIA CINEMA",|IT| Premium Action FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51084
+#EXTINF:-1 tvg-id="premiumaction.it" tvg-name="|IT| Premium Action HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/premium-action.png" group-title="EU| ITALIA CINEMA",|IT| Premium Action HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51085
+#EXTINF:-1 tvg-id="premiumcinema.it" tvg-name="|IT| premium Cinema FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/premuim%20cinema.png" group-title="EU| ITALIA CINEMA",|IT| premium Cinema FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51086
+#EXTINF:-1 tvg-id="premiumcinema.it" tvg-name="|IT| premium Cinema HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/premuim%20cinema.png" group-title="EU| ITALIA CINEMA",|IT| premium Cinema HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51087
+#EXTINF:-1 tvg-id="premiumcinemaplus24.it" tvg-name="|IT| Premium Action +24" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/premium-action.png" group-title="EU| ITALIA CINEMA",|IT| Premium Action +24
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51088
+#EXTINF:-1 tvg-id="primafila1.it" tvg-name="|IT| Prima Fila 1" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/PRIMAFILA.png" group-title="EU| ITALIA CINEMA",|IT| Prima Fila 1
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51091
+#EXTINF:-1 tvg-id="primafila8.it" tvg-name="|IT| Prima Fila 8" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PRIMAFILA.png" group-title="EU| ITALIA CINEMA",|IT| Prima Fila 8
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51098
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="|IT| Sky Sport Uno FullHD" tvg-logo="http://185.165.243.195/logo_plus/ITALY/SKYSPORT1.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport Uno FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51106
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="|IT| Sky Sport UNO HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ElevenSports.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport UNO HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51107
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="|IT| Sky Sport Arena FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKY%20ARENA.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport Arena FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51108
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="|IT| Sky Sport Arena HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKY%20ARENA.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport Arena HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51109
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="|IT| Sky Sport F1 FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYFORMULA1.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport F1 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51110
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="|IT| Sky Sport F1 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYFORMULA1.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport F1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51111
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="|IT| Sky Sport Foot HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYFOOTBALL.jpg" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport Foot HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51114
+#EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="|IT| Sky Sport Serie A HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSERIEA.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport Serie A HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51119
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport Moto GP FullHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport Moto GP FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/288502
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport MotoGP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport MotoGP HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/288503
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="|IT|  Eurosport 1 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/eurosport-1.png" group-title="EU| ITALIA SPORTS",|IT|  Eurosport 1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51117
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="|IT| Sport Italia HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SPORTITALIA.png" group-title="EU| ITALIA SPORTS",|IT| Sport Italia HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51120
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="|IT| Super Tennis HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SUPERTENNIS.png" group-title="EU| ITALIA SPORTS",|IT| Super Tennis HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51121
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="|IT| Sky Sport Uno 1HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYUNO1HD.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport Uno 1HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51122
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="|IT| Rai Sport HD +" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RAISPORT.png" group-title="EU| ITALIA SPORTS",|IT| Rai Sport HD +
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51123
+#EXTINF:-1 tvg-id="milantv.it" tvg-name="|IT| Milan Channel" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MILANCHANNELFHD.png" group-title="EU| ITALIA SPORTS",|IT| Milan Channel
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51125
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="|IT| Sky Sport 24 FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORT24FHD.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport 24 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51126
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="|IT| Sky Sport 24 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORT24FHD.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport 24 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51127
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="|IT| Rai Sport Plus [Multi-Sub]" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RAISPORT.png" group-title="EU| ITALIA SPORTS",|IT| Rai Sport Plus [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51128
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="|IT| Rai Sport+ HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RAISPORT.png" group-title="EU| ITALIA SPORTS",|IT| Rai Sport+ HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51129
+#EXTINF:-1 tvg-id="skysport251.it" tvg-name="|IT| Sky Sport 251 FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/skysport.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport 251 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51131
+#EXTINF:-1 tvg-id="skysport252.it" tvg-name="|IT| Sky Sport 252 FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCALCIO.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport 252 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51133
+#EXTINF:-1 tvg-id="skysport252.it" tvg-name="|IT| Sky Sport 252 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCALCIO.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport 252 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51134
+#EXTINF:-1 tvg-id="skysport253.it" tvg-name="|IT| Sky Sport 253 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCALCIO.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport 253 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51136
+#EXTINF:-1 tvg-id="skysport254.it" tvg-name="|IT| Sky Sport 254 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCALCIO.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport 254 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51137
+#EXTINF:-1 tvg-id="skysport254.it" tvg-name="|IT| Sky Sport 254 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCALCIO.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport 254 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51138
+#EXTINF:-1 tvg-id="skysport255.it" tvg-name="|IT| Sky Sport 255 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCALCIO.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport 255 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51139
+#EXTINF:-1 tvg-id="skysport255.it" tvg-name="|IT| Sky Sport 255 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCALCIO.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport 255 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51140
+#EXTINF:-1 tvg-id="skysport256.it" tvg-name="|IT| Sky Sport 256 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCALCIO.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport 256 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51141
+#EXTINF:-1 tvg-id="skysport256.it" tvg-name="|IT| Sky Sport 256 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCALCIO.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport 256 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51142
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="|IT| Rai Movie FHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/raimovie.png" group-title="EU| ITALY",|IT| Rai Movie FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51144
+#EXTINF:-1 tvg-id="paramountchannel.it" tvg-name="|IT| Paramount Channel HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PARAMOUNTCHANNELHD.png" group-title="EU| ITALIA CINEMA",|IT| Paramount Channel HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51145
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="|IT| Rai Premium FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RAIPREMIUMHD.png" group-title="EU| ITALIA CINEMA",|IT| Rai Premium FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51146
+#EXTINF:-1 tvg-id="dazn.it" tvg-name="|IT| DAZN FULLHD1" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/dazn.png" group-title="EU| ITALIA SPORTS",|IT| DAZN FULLHD1
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51148
+#EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="|IT| Sky Serie A FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCALCIO1HD.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Serie A FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51149
+#EXTINF:-1 tvg-id="dazn.it" tvg-name="|IT| Dazn Serie AeB Sport 209 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/dazn.png" group-title="EU| ITALIA SPORTS",|IT| Dazn Serie AeB Sport 209 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51150
+#EXTINF:-1 tvg-id="dazn.it" tvg-name="|IT| Dazn Serie AeB Sport 209 SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/dazn.png" group-title="EU| ITALIA SPORTS",|IT| Dazn Serie AeB Sport 209 SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51152
+#EXTINF:-1 tvg-id="dazn.it" tvg-name="|IT| DAZN Sport 1HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/dazn.png" group-title="EU| ITALIA SPORTS",|IT| DAZN Sport 1HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51153
+#EXTINF:-1 tvg-id="dazn.it" tvg-name="|IT| DAZN Sport 3HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/dazn.png" group-title="EU| ITALIA SPORTS",|IT| DAZN Sport 3HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51155
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="|IT| Rai YoYo FHD [Multi-Sub]" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MYSPORT.png" group-title="EU| ITALIA KIDS",|IT| Rai YoYo FHD [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51180
+#EXTINF:-1 tvg-id="raigulp.it" tvg-name="|IT| Rai Gulp FHD [Multi-Sub]" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MYSPORT.png" group-title="EU| ITALIA KIDS",|IT| Rai Gulp FHD [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51181
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="|IT| Rai Yoyo HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RAIYOYO.png" group-title="EU| ITALIA KIDS",|IT| Rai Yoyo HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51182
+#EXTINF:-1 tvg-id="boing.it" tvg-name="|IT| Boing HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BOINGHD.png" group-title="EU| ITALIA KIDS",|IT| Boing HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51184
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="|IT| Cartoon Network HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CARTOONNETWORK.png" group-title="EU| ITALIA KIDS",|IT| Cartoon Network HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51190
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="|IT| Cartoon +1" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CARTOONNETWORK.png" group-title="EU| ITALIA KIDS",|IT| Cartoon +1
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51191
+#EXTINF:-1 tvg-id="boomerang.it" tvg-name="|IT| Boomerang" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BOOMERANGHD.png" group-title="EU| ITALIA KIDS",|IT| Boomerang
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51192
+#EXTINF:-1 tvg-id="boomerang.it" tvg-name="|IT| Boomerang +1" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Boomerang-1.png" group-title="EU| ITALIA KIDS",|IT| Boomerang +1
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51193
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="|IT| Nickelodeon" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Logo_Nickelodeon.png" group-title="EU| ITALIA KIDS",|IT| Nickelodeon
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51194
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="|IT| Nickelodeon +1" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NICKELODEON.png" group-title="EU| ITALIA KIDS",|IT| Nickelodeon +1
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51195
+#EXTINF:-1 tvg-id="nickjunior.it" tvg-name="|IT| NickJr" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NICK%20JUNIOR.png" group-title="EU| ITALIA KIDS",|IT| NickJr
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51196
+#EXTINF:-1 tvg-id="nickjunior.it" tvg-name="|IT| NickJr +1" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NICK%20JUNIOR.jpg" group-title="EU| ITALIA KIDS",|IT| NickJr +1
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51197
+#EXTINF:-1 tvg-id="babytv.it" tvg-name="|IT| Baby TV" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BABYTV.png" group-title="EU| ITALIA KIDS",|IT| Baby TV
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51199
+#EXTINF:-1 tvg-id="deajunior.it" tvg-name="|IT| DeAJ unior" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DEAJUNIOR.png" group-title="EU| ITALIA KIDS",|IT| DeAJ unior
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51200
+#EXTINF:-1 tvg-id="deakids.it" tvg-name="|IT| DeA Kids" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DEAKIDS.png" group-title="EU| ITALIA KIDS",|IT| DeA Kids
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51201
+#EXTINF:-1 tvg-id="deakids.it" tvg-name="|IT| DeA Kids +1" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DEAKIDS.png" group-title="EU| ITALIA KIDS",|IT| DeA Kids +1
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51202
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="|IT| DMAX FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DMAX.png" group-title="EU| ITALIA DOCUMENTARI",|IT| DMAX FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51205
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="|IT| DMAX 1" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DMAX1.png" group-title="EU| ITALIA DOCUMENTARI",|IT| DMAX 1
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51206
+#EXTINF:-1 tvg-id="natgeo.it" tvg-name="|IT| National Geographic Full-HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NATGEOGRAPHICFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT| National Geographic Full-HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51207
+#EXTINF:-1 tvg-id="natgeowild.it" tvg-name="|IT| NatGeo Wild FullHD" tvg-logo="http://185.165.243.195/logo_plus/ITALY/NATGEOWILDFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT| NatGeo Wild FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51208
+#EXTINF:-1 tvg-id="natgeo.it" tvg-name="|IT| National Geo FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NATGEOGRAPHICFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT| National Geo FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51209
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="|IT| Discovery HD" tvg-logo="http://185.165.243.195/logo_plus/ITALY/DISCOVERYCHANNELFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT| Discovery HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51210
+#EXTINF:-1 tvg-id="discoveryscience.it" tvg-name="|IT|  Discovery Sci HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DISCOVERYSCIENCEFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT|  Discovery Sci HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51211
+#EXTINF:-1 tvg-id="natgeo.it" tvg-name="|IT|  Nat Geo HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NATGEOGRAPHICFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT|  Nat Geo HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51212
+#EXTINF:-1 tvg-id="natgeo.it" tvg-name="|IT|  Nat Geo FHD" tvg-logo="http://185.165.243.195/logo_plus/ITALY/NATGEOGRAPHICFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT|  Nat Geo FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51213
+#EXTINF:-1 tvg-id="natgeowild.it" tvg-name="|IT|  Nat Geo Wild HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NATGEOWILDFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT|  Nat Geo Wild HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51214
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="|IT| Discovery FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DISCOVERYCHANNELFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT| Discovery FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51215
+#EXTINF:-1 tvg-id="focustv.it" tvg-name="|IT| FOCUS SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/FOCUS.png" group-title="EU| ITALIA DOCUMENTARI",|IT| FOCUS SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51216
+#EXTINF:-1 tvg-id="discoveryscience.it" tvg-name="|IT| Discovery Sci FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DISCOVERYSCIENCEFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT| Discovery Sci FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51217
+#EXTINF:-1 tvg-id="discoveryscience.it" tvg-name="|IT| Discovery Science HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DISCOVERYSCIENCEFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT| Discovery Science HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51218
+#EXTINF:-1 tvg-id="natgeo.it" tvg-name="|IT| National Geo +1 FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NATGEOGRAPHICFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT| National Geo +1 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51219
+#EXTINF:-1 tvg-id="natgeowild.it" tvg-name="|IT| NatGeo Wild +1 FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NATGEOWILDFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT| NatGeo Wild +1 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51220
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="|IT| Discovery +1 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DISCOVERYCHANNELFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT| Discovery +1 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51221
+#EXTINF:-1 tvg-id="natgeo.it" tvg-name="|IT| National Geo +1 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NATGEOGRAPHICFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT| National Geo +1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51222
+#EXTINF:-1 tvg-id="natgeowild.it" tvg-name="|IT| Nat Geo Wild +1 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NATGEOWILDFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT| Nat Geo Wild +1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51223
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="|IT| Discovery +1 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DISCOVERYCHANNELFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT| Discovery +1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51224
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="|IT| Sky TG24 HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/skytg24.png" group-title="EU| ITALY",|IT| Sky TG24 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51227
+#EXTINF:-1 tvg-id="la7.it" tvg-name="|IT| La7 FHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/la7.png" group-title="EU| ITALY",|IT| La7 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51228
+#EXTINF:-1 tvg-id="tv8.it" tvg-name="|IT| Tv8 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TV8.png" group-title="EU| ITALY",|IT| Tv8 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51229
+#EXTINF:-1 tvg-id="nove.it" tvg-name="|IT| Nove FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NOVEDEEJAYTV.png" group-title="EU| ITALY",|IT| Nove FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51230
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="|IT| Cielo FHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/cielo.png" group-title="EU| ITALY",|IT| Cielo FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51231
+#EXTINF:-1 tvg-id="20mediaset.it" tvg-name="|IT| 20 Mediaset FHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/20mediaset.png" group-title="EU| ITALY",|IT| 20 Mediaset FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51232
+#EXTINF:-1 tvg-id="giallo.it" tvg-name="|IT| GIALLO FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GIALLO.png" group-title="EU| ITALY",|IT| GIALLO FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51233
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="|IT| Real Time FHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/realtime.png" group-title="EU| ITALY",|IT| Real Time FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51234
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="|IT| Real Time +1" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/realtime.png" group-title="EU| ITALY",|IT| Real Time +1
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51235
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="|IT| DMAX +1" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/dmax.png" group-title="EU| ITALY",|IT| DMAX +1
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51236
+#EXTINF:-1 tvg-id="tv2000.it" tvg-name="|IT| TV 2000" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/tv2000.png" group-title="EU| ITALY",|IT| TV 2000
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51237
+#EXTINF:-1 tvg-id="alpha59.it" tvg-name="|IT| Alpha" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ALPHA.png" group-title="EU| ITALY",|IT| Alpha
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51238
+#EXTINF:-1 tvg-id="motortrend.it" tvg-name="|IT| Motor Trend FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MOTOR%20TREND.png" group-title="EU| ITALIA SPORTS",|IT| Motor Trend FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51239
+#EXTINF:-1 tvg-id="spiketv.it" tvg-name="|IT| Spike" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/spike.png" group-title="EU| ITALY",|IT| Spike
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51240
+#EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="|IT| Food Network" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/FOODNETWORK.png" group-title="EU| ITALIA DOCUMENTARI",|IT| Food Network
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51241
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="|IT| Sky Uno +1 FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYUNO1HD.png" group-title="EU| ITALIA CINEMA",|IT| Sky Uno +1 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51242
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="|IT| Sky Atlantic +1 FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYATLANTIC1HD.png" group-title="EU| ITALIA CINEMA",|IT| Sky Atlantic +1 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51243
+#EXTINF:-1 tvg-id="fox.it" tvg-name="|IT| Fox +1 FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/FOXHD.png" group-title="EU| ITALIA CINEMA",|IT| Fox +1 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51244
+#EXTINF:-1 tvg-id="foxcrime.it" tvg-name="|IT| Fox Crime +1 FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/foxcrime.png" group-title="EU| ITALIA CINEMA",|IT| Fox Crime +1 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51246
+#EXTINF:-1 tvg-id="foxcrime.it" tvg-name="|IT| Fox Crime +2 FullHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/foxcrime.png" group-title="EU| ITALIA CINEMA",|IT| Fox Crime +2 FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51247
+#EXTINF:-1 tvg-id="blaze.it" tvg-name="|IT| Blaze FullHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/blaze.png" group-title="EU| ITALY",|IT| Blaze FullHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51248
+#EXTINF:-1 tvg-id="laeffe.it" tvg-name="|IT| Laeffe" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/La%20Effe%20logo.png" group-title="EU| ITALY",|IT| Laeffe
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51250
+#EXTINF:-1 tvg-id="mtv.it" tvg-name="|IT| Sky MTV FHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/mtv.png" group-title="EU| ITALY",|IT| Sky MTV FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51251
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="|IT| Rai Sport FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RAISPORT.png" group-title="EU| ITALIA SPORTS",|IT| Rai Sport FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51252
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="|IT| Super Tennis FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SUPERTENNIS.png" group-title="EU| ITALIA SPORTS",|IT| Super Tennis FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51253
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="|IT| Sky Sport Football FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYFOOTBALL.jpg" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport Football FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51254
+#EXTINF:-1 tvg-id="skysportcollection.it" tvg-name="|IT| Sky Sport Collection FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/skysport.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport Collection FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51256
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="|IT| Eurosport 1 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EUROSPORT1HD.png" group-title="EU| ITALIA SPORTS",|IT| Eurosport 1 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51258
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="|IT| Sky Eurosport 2 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EUROSPORT2HD.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Eurosport 2 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51260
+#EXTINF:-1 tvg-id="" tvg-name="|IT| UnireSat" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/uniresat.png" group-title="EU| ITALY",|IT| UnireSat
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51261
+#EXTINF:-1 tvg-id="dazn.it" tvg-name="|IT| Vetrina Dazn" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU| ITALY",|IT| Vetrina Dazn
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51262
+#EXTINF:-1 tvg-id="alice.it" tvg-name="|IT| Alice" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/alice.png" group-title="EU| ITALY",|IT| Alice
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51263
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="|IT| Rai Scuola FHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/raiscuola.png" group-title="EU| ITALY",|IT| Rai Scuola FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51265
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="|IT| Rai Storia FHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/raistoria.png" group-title="EU| ITALY",|IT| Rai Storia FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51266
+#EXTINF:-1 tvg-id="historychannel.it" tvg-name="|IT| History HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/HISTORYFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT| History HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51267
+#EXTINF:-1 tvg-id="historychannel.it" tvg-name="|IT| History +1 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/HISTORYFHD.png" group-title="EU| ITALIA DOCUMENTARI",|IT| History +1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51268
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="|IT| Sky Arte FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYARTE.png" group-title="EU| ITALY",|IT| Sky Arte FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51269
+#EXTINF:-1 tvg-id="gamberorosso.it" tvg-name="|IT| Gambero Rosso FHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/gamberorosso.png" group-title="EU| ITALY",|IT| Gambero Rosso FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51271
+#EXTINF:-1 tvg-id="cacciapesca.it" tvg-name="|IT| CACCIAePesca" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CACCIAEPESCA.png" group-title="EU| ITALY",|IT| CACCIAePesca
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51273
+#EXTINF:-1 tvg-id="cacciapesca.it" tvg-name="|IT| PESCAeCaccia" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PESCAECACCIA.png" group-title="EU| ITALY",|IT| PESCAeCaccia
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51274
+#EXTINF:-1 tvg-id="classica.it" tvg-name="|IT| Sky Classica FHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/classica.png" group-title="EU| ITALY",|IT| Sky Classica FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51276
+#EXTINF:-1 tvg-id="Radio Italia Tv IT" tvg-name="|IT| Radio ItaliaTv HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/logo_radioitalia_forma_new2.png" group-title="EU| ITALY",|IT| Radio ItaliaTv HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51277
+#EXTINF:-1 tvg-id="mtvmusic.it" tvg-name="|IT| Sky MTV music FHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/mtvmusic.png" group-title="EU| ITALY",|IT| Sky MTV music FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51279
+#EXTINF:-1 tvg-id="vh1.it" tvg-name="|IT| VH1 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/VH1.png" group-title="EU| ITALY",|IT| VH1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51280
+#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="|IT| Cartonito HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/cartoonito.png" group-title="EU| ITALY",|IT| Cartonito HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51281
+#EXTINF:-1 tvg-id="super.it" tvg-name="|IT| Super" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/super!.png" group-title="EU| ITALY",|IT| Super
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51282
+#EXTINF:-1 tvg-id="k2.it" tvg-name="|IT| K2" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/k2.png" group-title="EU| ITALY",|IT| K2
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51283
+#EXTINF:-1 tvg-id="frisbee.it" tvg-name="|IT| Frisbee" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/frisbee.png" group-title="EU| ITALY",|IT| Frisbee
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51284
+#EXTINF:-1 tvg-id="pop.it" tvg-name="|IT| Pop" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/POP%20CHANNEL.png" group-title="EU| ITALY",|IT| Pop
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51285
+#EXTINF:-1 tvg-id="tgnorba24.it" tvg-name="|IT| Tg Norba 24" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/tgnorba.png" group-title="EU| ITALY",|IT| Tg Norba 24
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51287
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Padre Pio TV" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/Padre-Pio-TV.png" group-title="EU| ITALY",|IT| Padre Pio TV
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51288
+#EXTINF:-1 tvg-id="interchannel.it" tvg-name="|IT| Inter Channel" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/INTER-TV.png" group-title="EU| ITALIA SPORTS",|IT| Inter Channel
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51290
+#EXTINF:-1 tvg-id="Lazio Style Channel IT" tvg-name="|IT| Lazio Channel" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/LAZIOCHANNEL.png" group-title="EU| ITALIA SPORTS",|IT| Lazio Channel
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51291
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="|IT| Italia 1 HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/italia1.png" group-title="EU| ITALY",|IT| Italia 1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51292
+#EXTINF:-1 tvg-id="tv8.it" tvg-name="|IT| Tv8 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TV8.png" group-title="EU| ITALY",|IT| Tv8 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51293
+#EXTINF:-1 tvg-id="nove.it" tvg-name="|IT| Nove HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NOVEDEEJAYTV.png" group-title="EU| ITALY",|IT| Nove HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51294
+#EXTINF:-1 tvg-id="giallo.it" tvg-name="|IT| GIALLO HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GIALLO.png" group-title="EU| ITALY",|IT| GIALLO HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51296
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="|IT| Real Time HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/realtime.png" group-title="EU| ITALY",|IT| Real Time HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51297
+#EXTINF:-1 tvg-id="motortrend.it" tvg-name="|IT| Motor Trend HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MOTOR%20TREND.png" group-title="EU| ITALIA SPORTS",|IT| Motor Trend HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51298
+#EXTINF:-1 tvg-id="fox.it" tvg-name="|IT| Fox +1 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/FOX1HD.png" group-title="EU| ITALIA CINEMA",|IT| Fox +1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51299
+#EXTINF:-1 tvg-id="foxcrime.it" tvg-name="|IT| Fox Crime +1 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/FOXCRIME.png" group-title="EU| ITALIA CINEMA",|IT| Fox Crime +1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51301
+#EXTINF:-1 tvg-id="foxcrime.it" tvg-name="|IT| Fox Crime +2 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/foxcrime.png" group-title="EU| ITALIA CINEMA",|IT| Fox Crime +2 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51302
+#EXTINF:-1 tvg-id="blaze.it" tvg-name="|IT| Blaze HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/blaze.png" group-title="EU| ITALY",|IT| Blaze HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51303
+#EXTINF:-1 tvg-id="mtv.it" tvg-name="|IT| Sky MTV HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/mtv.png" group-title="EU| ITALY",|IT| Sky MTV HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51304
+#EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="|IT| Premium Crime HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PREMUIM-CRIM.png" group-title="EU| ITALIA CINEMA",|IT| Premium Crime HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51305
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="|IT| Rai Sport HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RAISPORT.png" group-title="EU| ITALIA SPORTS",|IT| Rai Sport HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51306
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="|IT| Sky Sport Football HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYFOOTBALL.jpg" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport Football HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51307
+#EXTINF:-1 tvg-id="skysportcollection.it" tvg-name="|IT| Sky Sport Collection HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/skysport.png" group-title="EU| ITALIA SKY SPORT",|IT| Sky Sport Collection HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51308
+#EXTINF:-1 tvg-id="crimeinvestigation.it" tvg-name="|IT| CICrimeInv.HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-SPAIN/CRIMENINVESTIGACION.png" group-title="EU| ITALY",|IT| CICrimeInv.HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51313
+#EXTINF:-1 tvg-id="gamberorosso.it" tvg-name="|IT| GamberoRossoHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/gamberorosso.png" group-title="EU| ITALY",|IT| GamberoRossoHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51314
+#EXTINF:-1 tvg-id="classica.it" tvg-name="|IT| Sky Classica HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/classica.png" group-title="EU| ITALY",|IT| Sky Classica HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51315
+#EXTINF:-1 tvg-id="mtvmusic.it" tvg-name="|IT| Sky MTV music HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/mtvmusic.png" group-title="EU| ITALY",|IT| Sky MTV music HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51316
+#EXTINF:-1 tvg-id="raigulp.it" tvg-name="|IT| Rai Gulp HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/raigulp.png" group-title="EU| ITALY",|IT| Rai Gulp HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51317
+#EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="|IT| Rai News 24 HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rainews.png" group-title="EU| ITALY",|IT| Rai News 24 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51318
+#EXTINF:-1 tvg-id="retequattro.it" tvg-name="|IT| Rete 4 SD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/rete.png" group-title="EU| ITALY",|IT| Rete 4 SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51319
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="|IT| Canale 5 SD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/canal5.png" group-title="EU| ITALY",|IT| Canale 5 SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51320
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="|IT| Italia 1 SD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/italia1.png" group-title="EU| ITALY",|IT| Italia 1 SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51321
+#EXTINF:-1 tvg-id="la7.it" tvg-name="|IT| La 7 SD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/la7.png" group-title="EU| ITALY",|IT| La 7 SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51322
+#EXTINF:-1 tvg-id="tv8.it" tvg-name="|IT| Tv 8 SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TV8.png" group-title="EU| ITALY",|IT| Tv 8 SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51323
+#EXTINF:-1 tvg-id="nove.it" tvg-name="|IT| Nove SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NOVEDEEJAYTV.png" group-title="EU| ITALY",|IT| Nove SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51324
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="|IT| Cielo SD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQUET-ITALY/cielo.png" group-title="EU| ITALY",|IT| Cielo SD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/51325
+#EXTINF:-1 tvg-id="" tvg-name="SKY Primafila 1 HD" tvg-logo="" group-title="EU| ITALIA CINEMA",SKY Primafila 1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271275
+#EXTINF:-1 tvg-id="" tvg-name="SKY PrimaFila 2 HD" tvg-logo="" group-title="EU| ITALIA CINEMA",SKY PrimaFila 2 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271276
+#EXTINF:-1 tvg-id="" tvg-name="SKY Primafila 3 HD" tvg-logo="" group-title="EU| ITALIA CINEMA",SKY Primafila 3 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271277
+#EXTINF:-1 tvg-id="" tvg-name="SKY Primafila 4 HD" tvg-logo="" group-title="EU| ITALIA CINEMA",SKY Primafila 4 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271278
+#EXTINF:-1 tvg-id="" tvg-name="SKY Primafila 5 HD" tvg-logo="" group-title="EU| ITALIA CINEMA",SKY Primafila 5 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271279
+#EXTINF:-1 tvg-id="" tvg-name="SKY Primafila 6 HD" tvg-logo="" group-title="EU| ITALIA CINEMA",SKY Primafila 6 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271280
+#EXTINF:-1 tvg-id="" tvg-name="SKY Primafila 7 HD" tvg-logo="" group-title="EU| ITALIA CINEMA",SKY Primafila 7 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271281
+#EXTINF:-1 tvg-id="" tvg-name="SKY Primafila 8 HD" tvg-logo="" group-title="EU| ITALIA CINEMA",SKY Primafila 8 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271282
+#EXTINF:-1 tvg-id="" tvg-name="|IT|_SKY Primafila  9" tvg-logo="" group-title="EU| ITALIA CINEMA",|IT|_SKY Primafila  9
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271283
+#EXTINF:-1 tvg-id="" tvg-name="|IT|_SKY Primafila  10" tvg-logo="" group-title="EU| ITALIA CINEMA",|IT|_SKY Primafila  10
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271285
+#EXTINF:-1 tvg-id="" tvg-name="|IT|_SKY Primafila 10 HD" tvg-logo="" group-title="EU| ITALIA CINEMA",|IT|_SKY Primafila 10 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271284
+#EXTINF:-1 tvg-id="" tvg-name="|IT|_SKY Primafila  11" tvg-logo="" group-title="EU| ITALIA CINEMA",|IT|_SKY Primafila  11
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271286
+#EXTINF:-1 tvg-id="" tvg-name="|IT|_SKY Primafila  12" tvg-logo="" group-title="EU| ITALIA CINEMA",|IT|_SKY Primafila  12
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271287
+#EXTINF:-1 tvg-id="" tvg-name="|IT|_SKY Primafila  13" tvg-logo="" group-title="EU| ITALIA CINEMA",|IT|_SKY Primafila  13
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271288
+#EXTINF:-1 tvg-id="" tvg-name="|IT|_SKY Primafila  14" tvg-logo="" group-title="EU| ITALIA CINEMA",|IT|_SKY Primafila  14
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271289
+#EXTINF:-1 tvg-id="" tvg-name="|IT|_SKY Primafila  15" tvg-logo="" group-title="EU| ITALIA CINEMA",|IT|_SKY Primafila  15
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271290
+#EXTINF:-1 tvg-id="" tvg-name="|IT|_SKY Primafila  16" tvg-logo="" group-title="EU| ITALIA CINEMA",|IT|_SKY Primafila  16
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271291
+#EXTINF:-1 tvg-id="" tvg-name="|IT|_SKY Primafila  17" tvg-logo="" group-title="EU| ITALIA CINEMA",|IT|_SKY Primafila  17
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271292
+#EXTINF:-1 tvg-id="" tvg-name="|IT|_SKY Primafila  18" tvg-logo="" group-title="EU| ITALIA CINEMA",|IT|_SKY Primafila  18
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271293
+#EXTINF:-1 tvg-id="" tvg-name="|IT|_SKY Primafila  19" tvg-logo="" group-title="EU| ITALIA CINEMA",|IT|_SKY Primafila  19
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/271294
+
+
 ;Iran 
 
-#EXTINF:-1 tvg-name="Maah" " group-title="IRAN",Maah 
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Maah" tvg-logo="" group-title="AS| IRAN",|Iran|- Maah
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296300
-
-#EXTINF:-1 tvg-id="" tvg-name="Hod Farsi" " group-title="IRAN",Hod Farsi
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Hod Farsi" tvg-logo="" group-title="AS| IRAN",|Iran|- Hod Farsi
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296298
-
-#EXTINF:-1 tvg-id="" tvg-name="GEM Junior" " group-title="IRAN" GEM Junior
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- GEM Junior" tvg-logo="" group-title="AS| IRAN",|Iran|- GEM Junior
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296297
-#EXTINF:-1 tvg-id="" tvg-name="Gem Classic" tvg-logo="" group-title="IRAN",Gem Classic
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Classic" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Classic
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296296
-#EXTINF:-1 tvg-id="" tvg-name="Gem Food" tvg-logo="" group-title="IRAN",Gem Food
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Maah TV" tvg-logo="" group-title="AS| IRAN",|Iran|- Maah TV
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296295
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Food" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Food
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296294
-#EXTINF:-1 tvg-id="" tvg-name="Persiana Cinema HD" tvg-logo="" group-title="IRAN", Persiana Cinema HD
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Persiana Cinema HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Persiana Cinema HD
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296293
-#EXTINF:-1 tvg-id="" tvg-name="Gem Series" tvg-logo="" group-title="IRAN",Gem Series
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Series" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Series
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296292
-#EXTINF:-1 tvg-id="" tvg-name="Persiana Family HD" tvg-logo="" group-title="IRAN",Persiana Family HD
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Persiana Family HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Persiana Family HD
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296291
-#EXTINF:-1 tvg-id="" tvg-name="Gem Life" tvg-logo="" group-title="IRAN", Gem Life
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Gem Life" tvg-logo="" group-title="AS| IRAN",|Iran|- Gem Life
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296290
-#EXTINF:-1 tvg-id="" tvg-name="Rubix TV" tvg-logo="" group-title="IRAN",Rubix TV
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Rubix TV" tvg-logo="" group-title="AS| IRAN",|Iran|- Rubix TV
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296289
-#EXTINF:-1 tvg-id="" tvg-name="ITN" tvg-logo="" group-title="IRAN" ITN
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- ITN" tvg-logo="" group-title="AS| IRAN",|Iran|- ITN
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296288
-#EXTINF:-1 tvg-id="" tvg-name="VOA PERSIAN IR" tvg-logo="" group-title="IRAN", VOA PERSIAN IR
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- VOA PERSIAN IR" tvg-logo="" group-title="AS| IRAN",|Iran|- VOA PERSIAN IR
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296287
-#EXTINF:-1 tvg-id="" tvg-name="Persiana music HD" tvg-logo="" group-title="IRAN",Persiana music HD
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Persiana music HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Persiana music HD
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296286
-#EXTINF:-1 tvg-id="" tvg-name="Manoto 1" tvg-logo="" group-title="IRAN" Manoto 1
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Manoto 1" tvg-logo="" group-title="AS| IRAN",|Iran|- Manoto 1
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296285
-
-#EXTINF:-1 tvg-id="" tvg-name="Iran International HD" tvg-logo="" group-title="IRAN" Iran International HD
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Iran International HD" tvg-logo="" group-title="AS| IRAN",|Iran|- Iran International HD
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296284
-
-#EXTINF:-1 tvg-name="Iran International HD" " group-title="IRAN",Iran International HD 
-http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296284
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Iran International TV" tvg-logo="" group-title="IRAN",Iran International TV
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- Iran International TV" tvg-logo="" group-title="AS| IRAN",|Iran|- Iran International TV
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296283
-#EXTINF:-1 tvg-id="" tvg-name="BBC Persian" tvg-logo="" group-title="IRAN",- BBC Persian
+#EXTINF:-1 tvg-id="" tvg-name="|Iran|- BBC Persian" tvg-logo="" group-title="AS| IRAN",|Iran|- BBC Persian
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296282
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="|Iran|- Varzesh" tvg-logo="" group-title="AS| IRAN",|Iran|- Varzesh
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296281
 #EXTINF:-1 tvg-id="" tvg-name="|Iran|- Varzesh (1000)" tvg-logo="" group-title="AS| IRAN",|Iran|- Varzesh (1000)
@@ -622,6 +1199,7 @@ http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/295995
 #EXTINF:-1 tvg-id="" tvg-name="|IRAN|  1TV HD" tvg-logo="" group-title="AS| IRAN",|IRAN|  1TV HD
 http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/295994
 
+
 ;AFGHANISTAn
 
 #EXTINF:-1 tvg-name="*** AFGHANISTAN - github.com/free-iptv" group-title="AFGHANISTAN" tvg-logo="https://i.imgur.com/f7pAUiw.png",*** AFGHANISTAN - github.com/free-iptv
@@ -719,1022 +1297,25 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/8484/8484/playlist.m3u8
 0 comments on commit e8f57cd
 
-#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 HD SE" tvg-logo="https://logo.iptveditor.com/svt1.png" group-title="Sweden",SVT1 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/320
-#EXTINF:-1 tvg-id="svt2.se" tvg-name="SVT2 HD SE" tvg-logo="https://logo.iptveditor.com/svt2.png" group-title="Sweden",SVT2 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/321
-#EXTINF:-1 tvg-id="tv3.se" tvg-name="TV3 FHD SE" tvg-logo="https://logo.iptveditor.com/tv3.png" group-title="Sweden",TV3 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/322
-#EXTINF:-1 tvg-id="tv3.se" tvg-name="TV3 HD SE" tvg-logo="https://logo.iptveditor.com/tv3.png" group-title="Sweden",TV3 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156899
-#EXTINF:-1 tvg-id="tv4.se" tvg-name="TV4 FHD SE" tvg-logo="https://logo.iptveditor.com/tv4.png" group-title="Sweden",TV4 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155157
-#EXTINF:-1 tvg-id="tv4.se" tvg-name="TV4 HD SE" tvg-logo="https://logo.iptveditor.com/tv4.png" group-title="Sweden",TV4 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/323
-#EXTINF:-1 tvg-id="tv4.se" tvg-name="TV4 SD SE" tvg-logo="https://logo.iptveditor.com/tv4.png" group-title="Sweden",TV4 SD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/14873
-#EXTINF:-1 tvg-id="kanal5.se" tvg-name="Kanal 5 FHD SE" tvg-logo="http://iptvnordic.tv/se/5.png" group-title="Sweden",Kanal 5 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/14874
-#EXTINF:-1 tvg-id="kanal5.se" tvg-name="Kanal 5 HD SE" tvg-logo="http://iptvnordic.tv/se/5.png" group-title="Sweden",Kanal 5 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/324
-#EXTINF:-1 tvg-id="tv6.se" tvg-name="TV6 FHD SE" tvg-logo="https://logo.iptveditor.com/tv6.png" group-title="Sweden",TV6 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/325
-#EXTINF:-1 tvg-id="tv6.se" tvg-name="TV6 HD SE" tvg-logo="https://logo.iptveditor.com/tv6.png" group-title="Sweden",TV6 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156896
-#EXTINF:-1 tvg-id="sjuan.se" tvg-name="Sjuan FHD SE" tvg-logo="http://iptvnordic.tv/se/sjuan.png" group-title="Sweden",Sjuan FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156895
-#EXTINF:-1 tvg-id="sjuan.se" tvg-name="Sjuan HD SE" tvg-logo="http://iptvnordic.tv/se/sjuan.png" group-title="Sweden",Sjuan HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/326
-#EXTINF:-1 tvg-id="tv8.se" tvg-name="TV8 FHD SE" tvg-logo="http://iptvnordic.tv/se/8.png" group-title="Sweden",TV8 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156894
-#EXTINF:-1 tvg-id="tv8.se" tvg-name="TV8 HD SE" tvg-logo="http://iptvnordic.tv/se/8.png" group-title="Sweden",TV8 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/327
-#EXTINF:-1 tvg-id="kanal9.se" tvg-name="Kanal 9 FHD SE" tvg-logo="http://iptvnordic.tv/se/9.png" group-title="Sweden",Kanal 9 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/14878
-#EXTINF:-1 tvg-id="kanal9.se" tvg-name="Kanal 9 HD SE" tvg-logo="http://iptvnordic.tv/se/9.png" group-title="Sweden",Kanal 9 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/328
-#EXTINF:-1 tvg-id="tv10.se" tvg-name="TV10 FHD SE" tvg-logo="https://logo.iptveditor.com/tv10.png" group-title="Sweden",TV10 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156897
-#EXTINF:-1 tvg-id="tv10.se" tvg-name="TV10 HD SE" tvg-logo="https://logo.iptveditor.com/tv10.png" group-title="Sweden",TV10 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/329
-#EXTINF:-1 tvg-id="kanal11.se" tvg-name="Kanal 11 FHD SE" tvg-logo="http://iptvnordic.tv/se/11.png" group-title="Sweden",Kanal 11 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/14880
-#EXTINF:-1 tvg-id="kanal11.se" tvg-name="Kanal 11 HD SE" tvg-logo="http://iptvnordic.tv/se/11.png" group-title="Sweden",Kanal 11 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/330
-#EXTINF:-1 tvg-id="tv12.se" tvg-name="TV12 FHD SE" tvg-logo="https://logo.iptveditor.com/tv12.png" group-title="Sweden",TV12 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/14881
-#EXTINF:-1 tvg-id="tv12.se" tvg-name="TV12 HD SE" tvg-logo="https://logo.iptveditor.com/tv12.png" group-title="Sweden",TV12 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/331
-#EXTINF:-1 tvg-id="boomerang.se" tvg-name="Boomerang SE" tvg-logo="https://logo.iptveditor.com/boomerang.png" group-title="Sweden",Boomerang SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/339
-#EXTINF:-1 tvg-id="disneychannel.se" tvg-name="Disney Channel SE" tvg-logo="https://logo.iptveditor.com/disneychannel.png" group-title="Sweden",Disney Channel SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/333
-#EXTINF:-1 tvg-id="disneyjunior.se" tvg-name="Disney Junior SE" tvg-logo="https://logo.iptveditor.com/disneyjunior.png" group-title="Sweden",Disney Junior SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/334
-#EXTINF:-1 tvg-id="" tvg-name="Disney + SE" tvg-logo="https://logo.iptveditor.com/disney+.png" group-title="Sweden",Disney + SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/58962
-#EXTINF:-1 tvg-id="" tvg-name="Disney + Classic Series SE" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",Disney + Classic Series SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/58984
-#EXTINF:-1 tvg-id="cartoonnetwork.se" tvg-name="Cartoon Network SE" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="Sweden",Cartoon Network SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/332
-#EXTINF:-1 tvg-id="nickjr.se" tvg-name="Nick Jr SE" tvg-logo="https://logo.iptveditor.com/nickjr.png" group-title="Sweden",Nick Jr SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/336
-#EXTINF:-1 tvg-id="nickelodeon.se" tvg-name="Nickelodeon SE" tvg-logo="https://logo.iptveditor.com/nickelodeon.png" group-title="Sweden",Nickelodeon SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/337
-#EXTINF:-1 tvg-id="nicktoons.se" tvg-name="NickToons SE" tvg-logo="https://logo.iptveditor.com/nicktoons.png" group-title="Sweden",NickToons SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/338
-#EXTINF:-1 tvg-id="kunskapskanalen.se" tvg-name="SVT Kunskapskanalen HD SE" tvg-logo="https://logo.iptveditor.com/svtkunskapskanalen.png" group-title="Sweden",SVT Kunskapskanalen HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/341
-#EXTINF:-1 tvg-id="svt24.se" tvg-name="SVT24/B HD SE" tvg-logo="http://iptvnordic.tv/se/svtb_ny.png" group-title="Sweden",SVT24/B HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/340
-#EXTINF:-1 tvg-id="nxt-barnfilm" tvg-name="NXT Play - Kids Animerat" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Kids Animerat
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/101489
-#EXTINF:-1 tvg-id="nxt-barnsånger" tvg-name="NXT Play - Barnmusik" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Barnmusik
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/100975
-#EXTINF:-1 tvg-id="nxt-ducktales" tvg-name="NXT Play - DuckTales" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - DuckTales
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/101482
-#EXTINF:-1 tvg-id="nxt-gooftroop" tvg-name="NXT Play - GoofTroop" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - GoofTroop
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/100981
-#EXTINF:-1 tvg-id="nxt-bumbibjornarna" tvg-name="NXT Play - Bumbibjörnarna" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Bumbibjörnarna
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/100980
-#EXTINF:-1 tvg-id="cmorefotboll.se" tvg-name="C More Fotboll FHD SE" tvg-logo="https://logo.iptveditor.com/cmorefotboll.png" group-title="Sweden",C More Fotboll FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/344
-#EXTINF:-1 tvg-id="" tvg-name="C More Fotboll HD B" tvg-logo="" group-title="Sweden",C More Fotboll HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163670
-#EXTINF:-1 tvg-id="cmoregolf.se" tvg-name="C More Golf FHD SE" tvg-logo="https://logo.iptveditor.com/cmoregolf.png" group-title="Sweden",C More Golf FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/345
-#EXTINF:-1 tvg-id="" tvg-name="C More Golf HD B" tvg-logo="" group-title="Sweden",C More Golf HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163671
-#EXTINF:-1 tvg-id="cmorehockey.se" tvg-name="C More Hockey FHD SE" tvg-logo="https://logo.iptveditor.com/cmorehockey.png" group-title="Sweden",C More Hockey FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/346
-#EXTINF:-1 tvg-id="" tvg-name="C More Hockey HD B" tvg-logo="" group-title="Sweden",C More Hockey HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163677
-#EXTINF:-1 tvg-id="cmorelive.se" tvg-name="C More Live FHD SE" tvg-logo="http://iptvnordic.tv/se/live.png" group-title="Sweden",C More Live FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/347
-#EXTINF:-1 tvg-id="" tvg-name="C More Live HD B" tvg-logo="" group-title="Sweden",C More Live HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163676
-#EXTINF:-1 tvg-id="cmorelive2.se" tvg-name="C More Live 2 FHD SE" tvg-logo="http://iptvnordic.tv/se/live2.png" group-title="Sweden",C More Live 2 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/348
-#EXTINF:-1 tvg-id="" tvg-name="C More Live 2 HD B" tvg-logo="" group-title="Sweden",C More Live 2 HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163675
-#EXTINF:-1 tvg-id="cmorelive3.se" tvg-name="C More Live 3 FHD SE" tvg-logo="http://iptvnordic.tv/se/live3.png" group-title="Sweden",C More Live 3 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/349
-#EXTINF:-1 tvg-id="" tvg-name="C More Live 3 HD B" tvg-logo="" group-title="Sweden",C More Live 3 HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163674
-#EXTINF:-1 tvg-id="cmorelive4.se" tvg-name="C More Live 4 FHD SE" tvg-logo="https://logo.iptveditor.com/cmore4.png" group-title="Sweden",C More Live 4 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/350
-#EXTINF:-1 tvg-id="" tvg-name="C More Live 4 HD B" tvg-logo="" group-title="Sweden",C More Live 4 HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163673
-#EXTINF:-1 tvg-id="cmorelive5.se" tvg-name="C More Live 5 FHD SE" tvg-logo="https://logo.iptveditor.com/cmore5.png" group-title="Sweden",C More Live 5 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/351
-#EXTINF:-1 tvg-id="" tvg-name="C More Live 5 HD B" tvg-logo="" group-title="Sweden",C More Live 5 HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163672
-#EXTINF:-1 tvg-id="sportkanalen.se" tvg-name="Sportkanalen FHD SE" tvg-logo="https://logo.iptveditor.com/sportkanalen.png" group-title="Sweden",Sportkanalen FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/352
-#EXTINF:-1 tvg-id="" tvg-name="Sportkanalen FHD B" tvg-logo="" group-title="Sweden",Sportkanalen FHD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163669
-#EXTINF:-1 tvg-id="viasatfotboll.se" tvg-name="V Sport Fotboll FHD SE" tvg-logo="http://iptvnordic.tv/se/Vsportfotboll.png" group-title="Sweden",V Sport Fotboll FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/356
-#EXTINF:-1 tvg-id="" tvg-name="V Sport Fotboll HD B" tvg-logo="" group-title="Sweden",V Sport Fotboll HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163682
-#EXTINF:-1 tvg-id="viasatgolf.se" tvg-name="V Sport Golf FHD SE" tvg-logo="https://logo.iptveditor.com/vsportgolf.png" group-title="Sweden",V Sport Golf FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/357
-#EXTINF:-1 tvg-id="" tvg-name="V Sport Golf HD B" tvg-logo="" group-title="Sweden",V Sport Golf HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163681
-#EXTINF:-1 tvg-id="viasathockey.se" tvg-name="V Sport Hockey FHD SE" tvg-logo="http://iptvnordic.tv/se/Vsporthockey.png" group-title="Sweden",V Sport Hockey FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/358
-#EXTINF:-1 tvg-id="" tvg-name="V Sport Hockey HD B" tvg-logo="" group-title="Sweden",V Sport Hockey HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163680
-#EXTINF:-1 tvg-id="viasatmotor.se" tvg-name="V Sport Motor HD SE" tvg-logo="http://iptvnordic.tv/se/Vsportmotor.png" group-title="Sweden",V Sport Motor HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/359
-#EXTINF:-1 tvg-id="" tvg-name="V Sport Motor FHD B" tvg-logo="" group-title="Sweden",V Sport Motor FHD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163668
-#EXTINF:-1 tvg-id="" tvg-name="V Sport Extra FHD SE" tvg-logo="http://iptvnordic.tv/se/Vsportextra.png" group-title="Sweden",V Sport Extra FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/353
-#EXTINF:-1 tvg-id="viasatsport.se" tvg-name="V Sport 1 FHD SE" tvg-logo="https://logo.iptveditor.com/vsport1.png" group-title="Sweden",V Sport 1 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/354
-#EXTINF:-1 tvg-id="" tvg-name="V Sport 1 HD B" tvg-logo="" group-title="Sweden",V Sport 1 HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163679
-#EXTINF:-1 tvg-id="viasatsportpremium.se" tvg-name="V Sport Premium FHD SE" tvg-logo="http://iptvnordic.tv/se/Vsportpremium.png" group-title="Sweden",V Sport Premium FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/355
-#EXTINF:-1 tvg-id="" tvg-name="V Sport Premium HD B" tvg-logo="" group-title="Sweden",V Sport Premium HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163678
-#EXTINF:-1 tvg-id="viasatultra.se" tvg-name="V Sport Ultra UHD SE" tvg-logo="http://iptvnordic.tv/se/Vsportultrahd.png" group-title="Sweden",V Sport Ultra UHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/17617
-#EXTINF:-1 tvg-id="" tvg-name="SportExpressen HD SE" tvg-logo="http://iptvnordic.tv/se/expressen.png" group-title="Sweden",SportExpressen HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/57931
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network FHD SE" tvg-logo="https://logo.iptveditor.com/nflnetwork.png" group-title="Sweden",NFL Network FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/366
-#EXTINF:-1 tvg-id="atglive.se" tvg-name="ATG Live SE" tvg-logo="https://logo.iptveditor.com/atg.png" group-title="Sweden",ATG Live SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/401
-#EXTINF:-1 tvg-id="horseandcountry.se" tvg-name="Horse & Country TV SE" tvg-logo="https://logo.iptveditor.com/horse&countrytv.png" group-title="Sweden",Horse & Country TV SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/363
-#EXTINF:-1 tvg-id="eurosport.se" tvg-name="EuroSport 1 FHD SE" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="Sweden",EuroSport 1 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/360
-#EXTINF:-1 tvg-id="eurosport.se" tvg-name="Eurosport 1 HD SE" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="Sweden",Eurosport 1 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/157103
-#EXTINF:-1 tvg-id="eurosport2.se" tvg-name="EuroSport 2 FHD SE" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="Sweden",EuroSport 2 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/361
-#EXTINF:-1 tvg-id="eurosport2.se" tvg-name="Eurosport 2 HD SE" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="Sweden",Eurosport 2 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/157104
-#EXTINF:-1 tvg-id="cmorefirst.se" tvg-name="C More First FHD SE" tvg-logo="https://logo.iptveditor.com/cmorefirst.png" group-title="Sweden",C More First FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/370
-#EXTINF:-1 tvg-id="cmorehits.se" tvg-name="C More Hits FHD SE" tvg-logo="https://logo.iptveditor.com/cmorehits.png" group-title="Sweden",C More Hits FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/367
-#EXTINF:-1 tvg-id="cmoreseries.se" tvg-name="C More Series FHD SE" tvg-logo="https://logo.iptveditor.com/cmoreseries.png" group-title="Sweden",C More Series FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/369
-#EXTINF:-1 tvg-id="cmorestars.se" tvg-name="C More Stars FHD SE" tvg-logo="https://logo.iptveditor.com/cmorestars.png" group-title="Sweden",C More Stars FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/368
-#EXTINF:-1 tvg-id="viasatfilmaction.se" tvg-name="V Film Action FHD SE" tvg-logo="http://iptvnordic.tv/se/Vfilmaction.png" group-title="Sweden",V Film Action FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/371
-#EXTINF:-1 tvg-id="viasatfilmfamily.se" tvg-name="V Film Family SE" tvg-logo="http://iptvnordic.tv/se/Vfilmfamily.png" group-title="Sweden",V Film Family SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/373
-#EXTINF:-1 tvg-id="viasatfilmhits.se" tvg-name="V Film Hits FHD SE" tvg-logo="http://iptvnordic.tv/se/Vfilmhits.png" group-title="Sweden",V Film Hits FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/372
-#EXTINF:-1 tvg-id="viasatfilmpremiere.se" tvg-name="V Film Premiere FHD SE" tvg-logo="http://iptvnordic.tv/se/Vfilmpremiere.png" group-title="Sweden",V Film Premiere FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/374
-#EXTINF:-1 tvg-id="viasatseries.se" tvg-name="V Series FHD SE" tvg-logo="http://iptvnordic.tv/se/Vseries.png" group-title="Sweden",V Series FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/375
-#EXTINF:-1 tvg-id="sfkanalen.se" tvg-name="SF-Kanalen SE" tvg-logo="https://logo.iptveditor.com/sfkanalen.png" group-title="Sweden",SF-Kanalen SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/377
-#EXTINF:-1 tvg-id="tv4film.se" tvg-name="TV4 Film SE" tvg-logo="https://logo.iptveditor.com/tv4film.png" group-title="Sweden",TV4 Film SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/380
-#EXTINF:-1 tvg-id="tv4fakta.se" tvg-name="TV4 Fakta SE" tvg-logo="https://logo.iptveditor.com/tv4fakta.png" group-title="Sweden",TV4 Fakta SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/379
-#EXTINF:-1 tvg-id="tv4guld.se" tvg-name="TV4 Guld SE" tvg-logo="https://logo.iptveditor.com/tv4guld.png" group-title="Sweden",TV4 Guld SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/381
-#EXTINF:-1 tvg-id="paramountnetwork.se" tvg-name="Paramount Network SE" tvg-logo="https://logo.iptveditor.com/paramountnetwork.png" group-title="Sweden",Paramount Network SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/378
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV FHD" tvg-logo="" group-title="Sweden",Fashion TV FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155145
-#EXTINF:-1 tvg-id="" tvg-name="Food Network HD SE" tvg-logo="" group-title="Sweden",Food Network HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155144
-#EXTINF:-1 tvg-id="" tvg-name="Trace Urban HD SE" tvg-logo="" group-title="Sweden",Trace Urban HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155143
-#EXTINF:-1 tvg-id="" tvg-name="MTV Base SE" tvg-logo="" group-title="Sweden",MTV Base SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155142
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live SE" tvg-logo="" group-title="Sweden",MTV Live SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155141
-#EXTINF:-1 tvg-id="" tvg-name="MTV Club SE" tvg-logo="" group-title="Sweden",MTV Club SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155140
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hits SE" tvg-logo="" group-title="Sweden",MTV Hits SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155139
-#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live HD SE" tvg-logo="" group-title="Sweden",Mezzo Live HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155138
-#EXTINF:-1 tvg-id="" tvg-name="TVG Network HD SE" tvg-logo="" group-title="Sweden",TVG Network HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155137
-#EXTINF:-1 tvg-id="" tvg-name="Nautical Channel HD SE" tvg-logo="" group-title="Sweden",Nautical Channel HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155136
-#EXTINF:-1 tvg-id="" tvg-name="Fight Sports HD SE" tvg-logo="" group-title="Sweden",Fight Sports HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155135
-#EXTINF:-1 tvg-id="" tvg-name="GINX eSports HD SE" tvg-logo="" group-title="Sweden",GINX eSports HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155134
-#EXTINF:-1 tvg-id="" tvg-name="World Poker Tour SE" tvg-logo="" group-title="Sweden",World Poker Tour SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155133
-#EXTINF:-1 tvg-id="" tvg-name="Himlen TV7 SD SE" tvg-logo="" group-title="Sweden",Himlen TV7 SD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155132
-#EXTINF:-1 tvg-id="bbcbrit.se" tvg-name="BBC Brit FHD SE" tvg-logo="https://logo.iptveditor.com/bbcbrit.png" group-title="Sweden",BBC Brit FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/383
-#EXTINF:-1 tvg-id="bbcearth.se" tvg-name="BBC Earth FHD SE" tvg-logo="https://logo.iptveditor.com/bbcearth.png" group-title="Sweden",BBC Earth FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/382
-#EXTINF:-1 tvg-id="eentertainment.se" tvg-name="E! Entertainment HD SE" tvg-logo="https://logo.iptveditor.com/eentertainment.png" group-title="Sweden",E! Entertainment HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/81555
-#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="CNN International SE" tvg-logo="https://logo.iptveditor.com/cnninternational.png" group-title="Sweden",CNN International SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/400
-#EXTINF:-1 tvg-id="" tvg-name="CNN Live FHD SE" tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="Sweden",CNN Live FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/108668
-#EXTINF:-1 tvg-id="" tvg-name="CNBC HD SE" tvg-logo="https://logo.iptveditor.com/cnbc.png" group-title="Sweden",CNBC HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/108669
-#EXTINF:-1 tvg-id="" tvg-name="Dagens Industri TV HD SE" tvg-logo="https://logo.iptveditor.com/dagensindustritv.png" group-title="Sweden",Dagens Industri TV HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/402
-#EXTINF:-1 tvg-id="Expressen TV" tvg-name="Expressen TV HD SE" tvg-logo="https://logo.iptveditor.com/expressentv.png" group-title="Sweden",Expressen TV HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/403
-#EXTINF:-1 tvg-id="animalplanet.se" tvg-name="Animal Planet FHD SE" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="Sweden",Animal Planet FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/384
-#EXTINF:-1 tvg-id="" tvg-name="CuriosityStream FHD SE" tvg-logo="https://logo.iptveditor.com/curiositystream.png" group-title="Sweden",CuriosityStream FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/81553
-#EXTINF:-1 tvg-id="discoverychannel.se" tvg-name="Discovery Channel FHD SE" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="Sweden",Discovery Channel FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/386
-#EXTINF:-1 tvg-id="discoveryscience.se" tvg-name="Discovery Science SE" tvg-logo="https://logo.iptveditor.com/discoveryscience.png" group-title="Sweden",Discovery Science SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/385
-#EXTINF:-1 tvg-id="investigationdiscovery.se" tvg-name="Investigation Discovery SE" tvg-logo="https://logo.iptveditor.com/investigationdiscovery.png" group-title="Sweden",Investigation Discovery SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/387
-#EXTINF:-1 tvg-id="natgeo.se" tvg-name="National Geographic FHD SE" tvg-logo="https://logo.iptveditor.com/nationalgeographic.png" group-title="Sweden",National Geographic FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/388
-#EXTINF:-1 tvg-id="natgeowild.se" tvg-name="National Geographic Wild FHD SE" tvg-logo="https://logo.iptveditor.com/nationalgeographicwild.png" group-title="Sweden",National Geographic Wild FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/389
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD SE" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="Sweden",National Geographic Wild HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/108648
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="Outdoor Channel FHD SE" tvg-logo="https://logo.iptveditor.com/outdoorchannel.png" group-title="Sweden",Outdoor Channel FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/16182
-#EXTINF:-1 tvg-id="h2.se" tvg-name="H2 History FHD SE" tvg-logo="http://iptvnordic.tv/se/h2historytv.png" group-title="Sweden",H2 History FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/390
-#EXTINF:-1 tvg-id="history.se" tvg-name="History HD SE" tvg-logo="https://logo.iptveditor.com/history.png" group-title="Sweden",History HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/391
-#EXTINF:-1 tvg-id="tlc.se" tvg-name="TLC FHD SE" tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="Sweden",TLC FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/399
-#EXTINF:-1 tvg-id="mtv.se" tvg-name="MTV HD SE" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="Sweden",MTV HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/396
-#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks SE " tvg-logo="" group-title="Sweden",MTV Rocks SE 
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/108622
-#EXTINF:-1 tvg-id="vh1.se" tvg-name="VH1 SE" tvg-logo="https://logo.iptveditor.com/vh1.png" group-title="Sweden",VH1 SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/395
-#EXTINF:-1 tvg-id="travel.se" tvg-name="Travel Channel HD SE" tvg-logo="https://logo.iptveditor.com/travelchannel.png" group-title="Sweden",Travel Channel HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/398
-#EXTINF:-1 tvg-id="viasatexplorer.se" tvg-name="Viasat Explorer FHD SE" tvg-logo="https://logo.iptveditor.com/viasatexplorer.png" group-title="Sweden",Viasat Explorer FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/392
-#EXTINF:-1 tvg-id="viasathistory.se" tvg-name="Viasat History FHD SE" tvg-logo="https://logo.iptveditor.com/viasathistory.png" group-title="Sweden",Viasat History FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/393
-#EXTINF:-1 tvg-id="viasatnature.se" tvg-name="Viasat Nature FHD SE" tvg-logo="https://logo.iptveditor.com/viasatnature.png" group-title="Sweden",Viasat Nature FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/394
-#EXTINF:-1 tvg-id="axesstv.se" tvg-name="Axess TV SE" tvg-logo="https://logo.iptveditor.com/axesstv.png" group-title="Sweden",Axess TV SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/16901
-#EXTINF:-1 tvg-id="" tvg-name="Godare SE" tvg-logo="http://iptvnordic.tv/se/godare.jpg" group-title="Sweden",Godare SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/18105
-#EXTINF:-1 tvg-id="" tvg-name="NXT Play - Live Concerts" tvg-logo="https://ibb.co/7kPFxPn" group-title="Sweden",NXT Play - Live Concerts
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/162582
-#EXTINF:-1 tvg-id="" tvg-name="NXT Play - Svenska Filmer -20/21" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Svenska Filmer -20/21
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/137464
-#EXTINF:-1 tvg-id="nxt-svenska-klassiker" tvg-name="NXT Play - Svenska Klassiker" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Svenska Klassiker
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/137463
-#EXTINF:-1 tvg-id="nxt-action" tvg-name="NXT Play - Action" tvg-logo="https://i.postimg.cc/LsZCwvnt/NXT-Play-3d-high-resolution-transparent-file.png" group-title="Sweden",NXT Play - Action
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/137596
-#EXTINF:-1 tvg-id="nxt-play-comedy-swe" tvg-name="NXT Play - Komedi" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Komedi
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/137462
-#EXTINF:-1 tvg-id="nxt-drama-swe" tvg-name="NXT Play - Drama" tvg-logo="https://ibb.co/7kPFxPn" group-title="Sweden",NXT Play - Drama
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/137684
-#EXTINF:-1 tvg-id="nxt-bio-swe" tvg-name="NXT Play - BioPremiär" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - BioPremiär
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/128853
-#EXTINF:-1 tvg-id="" tvg-name="NXT Play - Fast and Furious" tvg-logo="https://ibb.co/7kPFxPn" group-title="Sweden",NXT Play - Fast and Furious
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/138850
-#EXTINF:-1 tvg-id="" tvg-name="NXT Play - StarWars" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - StarWars
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/118426
-#EXTINF:-1 tvg-id="nxt-james-bond" tvg-name="NXT Play - James Bond" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - James Bond
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/57418
-#EXTINF:-1 tvg-id="nxt-uti-bogda" tvg-name="NXT Play - Uti Bögda" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Uti Bögda
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/115259
-#EXTINF:-1 tvg-id="nxt-partaj" tvg-name="NXT Play - Partaj" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Partaj
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/100974
-#EXTINF:-1 tvg-id="nxt-mumbo-jumbo" tvg-name="NXT Play - Mumbo Jumbo" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Mumbo Jumbo
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/100973
-#EXTINF:-1 tvg-id="" tvg-name="NXT Play - Bäst i Test" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Bäst i Test
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/115260
-#EXTINF:-1 tvg-id="nxt-rena-rama-rolf" tvg-name="NXT Play - Rena Rama Rolf" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Rena Rama Rolf
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/115261
-#EXTINF:-1 tvg-id="nxt-leif-&amp;-billy" tvg-name="NXT Play - Leif &amp; Billy" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Leif &amp; Billy
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/57417
-#EXTINF:-1 tvg-id="nxt-parlamentet" tvg-name="NXT Play - Parlamentet" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Parlamentet
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/57426
-#EXTINF:-1 tvg-id="nxt-solsidan" tvg-name="NXT Play - Solsidan" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Solsidan
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/51822
-#EXTINF:-1 tvg-id="sweplay-top-gear" tvg-name="NXT Play - Top Gear" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Top Gear
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/72600
-#EXTINF:-1 tvg-id="the-grand-tour" tvg-name="NXT Play - The Grand Tour" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - The Grand Tour
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/74862
-#EXTINF:-1 tvg-id="sweplay-weeds-7" tvg-name="NXT Play - Weeds" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Weeds
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/52281
-#EXTINF:-1 tvg-id="sweplay-family-guy" tvg-name="NXT Play - Family Guy" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Family Guy
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/75685
-#EXTINF:-1 tvg-id="two-and-a-half-men" tvg-name="NXT Play - Two And A Half Men" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Two And A Half Men
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/72360
-#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 Norrbotten SE" tvg-logo="https://logo.iptveditor.com/svt1.png" group-title="Sweden",SVT1 Norrbotten SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156903
-#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 Västerbotten SE" tvg-logo="https://logo.iptveditor.com/svt1.png" group-title="Sweden",SVT1 Västerbotten SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156902
-#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 Västernorrland SE" tvg-logo="https://logo.iptveditor.com/svt1.png" group-title="Sweden",SVT1 Västernorrland SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156901
-#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 Väst SE" tvg-logo="https://logo.iptveditor.com/svt1.png" group-title="Sweden",SVT1 Väst SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156900
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Gävleborg SE" tvg-logo="https://logo.iptveditor.com/svt1gävleborg.png" group-title="Sweden",SVT1 Gävleborg SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/134957
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Jämtland SE" tvg-logo="https://logo.iptveditor.com/svt1jämtland.png" group-title="Sweden",SVT1 Jämtland SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/134956
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Jönköping SE" tvg-logo="https://logo.iptveditor.com/svt1jönköping.png" group-title="Sweden",SVT1 Jönköping SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/134955
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Örebro SE" tvg-logo="https://logo.iptveditor.com/svt1örebro.png" group-title="Sweden",SVT1 Örebro SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/134954
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Öst SE" tvg-logo="https://logo.iptveditor.com/svt1öst.png" group-title="Sweden",SVT1 Öst SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/134953
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Dalarna SE" tvg-logo="https://logo.iptveditor.com/svt1dalarna.png" group-title="Sweden",SVT1 Dalarna SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/134952
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Värmland SE" tvg-logo="https://logo.iptveditor.com/svt1värmland.png" group-title="Sweden",SVT1 Värmland SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/134951
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Skåne SE" tvg-logo="" group-title="Sweden",SVT1 Skåne SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156898
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD SE" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="Sweden",Discovery Channel HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/108653
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Showcase HD SE" tvg-logo="https://logo.iptveditor.com/discoveryshowcase.png" group-title="Sweden",Discovery Showcase HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/108652
-#EXTINF:-1 tvg-id="golf.viasat.se" tvg-name="V Sport Golf SE (Backup)" tvg-logo="https://logo.iptveditor.com/vsportgolf.png" group-title="Sweden",V Sport Golf SE (Backup)
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/14892
-#EXTINF:-1 tvg-id="svt1hd.svt.se" tvg-name="SVT1 HD SE (Backup)" tvg-logo="https://logo.iptveditor.com/svt1.png" group-title="Sweden",SVT1 HD SE (Backup)
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/14869
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky History 2 FHD" tvg-logo="" group-title="United Kingdom",UK: Sky History 2 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161157
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Crime FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Crime FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161156
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky News FHD" tvg-logo="" group-title="United Kingdom",UK: Sky News FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161155
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Nature FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Nature FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161154
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Main Event FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161153
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Sports F1 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161152
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Arena FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161151
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Premier League FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Sport Premier League FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161150
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action / NFL FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Action / NFL FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161149
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Mix FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161148
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Cricket FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161147
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Football FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161146
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Golf FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161145
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Sports News FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161144
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Racing FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161143
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Arts FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Arts FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161142
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Atlantic FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Atlantic FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161141
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky One FHD" tvg-logo="" group-title="United Kingdom",UK: Sky One FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161140
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Witness FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Witness FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161139
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premiere FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Premiere FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161138
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Hits FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Hits FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161137
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Thriller FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Thriller FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161136
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Drama FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Drama FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161135
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Family FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Family FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161134
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Greats FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Greats FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161133
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema SCiFi / Horror FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema SCiFi / Horror FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161132
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Select FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Select FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161131
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Comedy FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Comedy FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161130
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Action FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Action FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161129
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Animation FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Animation FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161128
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Crime HD" tvg-logo="" group-title="United Kingdom",UK: Sky Crime HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161127
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premier HD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Premier HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161126
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Thriller HD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Thriller HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161125
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Comedy HD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Comedy HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161124
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Drama HD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Drama HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161123
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Greats HD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Greats HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161122
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Scifi Horror HD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Scifi Horror HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161121
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Family HD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Family HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161120
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Select HD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Select HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161119
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Hits HD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Hits HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161118
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Action HD" tvg-logo="" group-title="United Kingdom",UK: Sky Cinema Action HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161117
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky One HD" tvg-logo="" group-title="United Kingdom",UK: Sky One HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161116
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky News HD" tvg-logo="" group-title="United Kingdom",UK: Sky News HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161115
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Comedy HD" tvg-logo="" group-title="United Kingdom",UK: Sky Comedy HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161114
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Arts HD" tvg-logo="" group-title="United Kingdom",UK: Sky Arts HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161113
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Documentaries HD" tvg-logo="" group-title="United Kingdom",UK: Sky Documentaries HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161112
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Nature HD" tvg-logo="" group-title="United Kingdom",UK: Sky Nature HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161111
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News" tvg-logo="" group-title="United Kingdom",UK: Sky Sports News
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161110
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Arena
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161109
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Action
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161108
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1" tvg-logo="" group-title="United Kingdom",UK: Sky Sports F1
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161107
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Golf
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161106
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Cricket
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161105
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Football
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161104
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Premier League
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161103
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Racing
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161102
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Main Event
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161101
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix" tvg-logo="" group-title="United Kingdom",UK: Sky Sports Mix
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161100
-#EXTINF:-1 tvg-id="" tvg-name="UK: Horror Channel" tvg-logo="" group-title="United Kingdom",UK: Horror Channel
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160857
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sony Max FHD" tvg-logo="" group-title="United Kingdom",UK: Sony Max FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160441
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sony TV FHD" tvg-logo="" group-title="United Kingdom",UK: Sony TV FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160440
-#EXTINF:-1 tvg-id="" tvg-name="UK: Utsav Plus FHD" tvg-logo="" group-title="United Kingdom",UK: Utsav Plus FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160439
-#EXTINF:-1 tvg-id="" tvg-name="UK: Utsav Gold FHD" tvg-logo="" group-title="United Kingdom",UK: Utsav Gold FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160438
-#EXTINF:-1 tvg-id="" tvg-name="UK: Virgin Media One FHD" tvg-logo="" group-title="United Kingdom",UK: Virgin Media One FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160437
-#EXTINF:-1 tvg-id="" tvg-name="UK: Virgin Media Two FHD" tvg-logo="" group-title="United Kingdom",UK: Virgin Media Two FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160436
-#EXTINF:-1 tvg-id="" tvg-name="UK: E4 FHD" tvg-logo="" group-title="United Kingdom",UK: E4 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160435
-#EXTINF:-1 tvg-id="" tvg-name="UK: Alibi FHD" tvg-logo="" group-title="United Kingdom",UK: Alibi FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160434
-#EXTINF:-1 tvg-id="" tvg-name="UK: Gold FHD" tvg-logo="" group-title="United Kingdom",UK: Gold FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160433
-#EXTINF:-1 tvg-id="" tvg-name="UK: Nickelodeon FHD" tvg-logo="" group-title="United Kingdom",UK: Nickelodeon FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160432
-#EXTINF:-1 tvg-id="" tvg-name="UK: LFC TV FHD" tvg-logo="" group-title="United Kingdom",UK: LFC TV FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160431
-#EXTINF:-1 tvg-id="" tvg-name="UK: Free Sports FHD" tvg-logo="" group-title="United Kingdom",UK: Free Sports FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160430
-#EXTINF:-1 tvg-id="" tvg-name="UK: LaLiga FHD" tvg-logo="" group-title="United Kingdom",UK: LaLiga FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160429
-#EXTINF:-1 tvg-id="" tvg-name="UK: Quest FHD" tvg-logo="" group-title="United Kingdom",UK: Quest FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160428
-#EXTINF:-1 tvg-id="" tvg-name="UK: TLC FHD" tvg-logo="" group-title="United Kingdom",UK: TLC FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160427
-#EXTINF:-1 tvg-id="" tvg-name="UK: Crime Investigation FHD" tvg-logo="" group-title="United Kingdom",UK: Crime Investigation FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160426
-#EXTINF:-1 tvg-id="" tvg-name="UK: History FHD" tvg-logo="" group-title="United Kingdom",UK: History FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160425
-#EXTINF:-1 tvg-id="" tvg-name="UK: Nat Geo Wild FHD" tvg-logo="" group-title="United Kingdom",UK: Nat Geo Wild FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160424
-#EXTINF:-1 tvg-id="" tvg-name="UK: RTE One FHD" tvg-logo="" group-title="United Kingdom",UK: RTE One FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160423
-#EXTINF:-1 tvg-id="" tvg-name="UK: RTE Two FHD" tvg-logo="" group-title="United Kingdom",UK: RTE Two FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160422
-#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery FHD" tvg-logo="" group-title="United Kingdom",UK: Discovery FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160421
-#EXTINF:-1 tvg-id="" tvg-name="UK: Film4 FHD" tvg-logo="" group-title="United Kingdom",UK: Film4 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160420
-#EXTINF:-1 tvg-id="" tvg-name="UK: More 4 FHD" tvg-logo="" group-title="United Kingdom",UK: More 4 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160419
-#EXTINF:-1 tvg-id="" tvg-name="UK: MUTV FHD" tvg-logo="" group-title="United Kingdom",UK: MUTV FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160418
-#EXTINF:-1 tvg-id="" tvg-name="UK: Dave FHD" tvg-logo="" group-title="United Kingdom",UK: Dave FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160417
-#EXTINF:-1 tvg-id="" tvg-name="UK: E! Entertainment FHD" tvg-logo="" group-title="United Kingdom",UK: E! Entertainment FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160416
-#EXTINF:-1 tvg-id="" tvg-name="UK: Nat Geo FHD" tvg-logo="" group-title="United Kingdom",UK: Nat Geo FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160415
-#EXTINF:-1 tvg-id="" tvg-name="UK: SYFY FHD" tvg-logo="" group-title="United Kingdom",UK: SYFY FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160414
-#EXTINF:-1 tvg-id="" tvg-name="UK: TG4 FHD" tvg-logo="" group-title="United Kingdom",UK: TG4 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160413
-#EXTINF:-1 tvg-id="" tvg-name="UK: FOX FHD" tvg-logo="" group-title="United Kingdom",UK: FOX FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160412
-#EXTINF:-1 tvg-id="" tvg-name="UK: Boomerang FHD" tvg-logo="" group-title="United Kingdom",UK: Boomerang FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160411
-#EXTINF:-1 tvg-id="" tvg-name="UK: Cartoon Network FHD" tvg-logo="" group-title="United Kingdom",UK: Cartoon Network FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160410
-#EXTINF:-1 tvg-id="" tvg-name="UK: Watch FHD" tvg-logo="" group-title="United Kingdom",UK: Watch FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160409
-#EXTINF:-1 tvg-id="" tvg-name="UK: Bloomberg FHD" tvg-logo="" group-title="United Kingdom",UK: Bloomberg FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160408
-#EXTINF:-1 tvg-id="" tvg-name="UK: Colors FHD" tvg-logo="" group-title="United Kingdom",UK: Colors FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160407
-#EXTINF:-1 tvg-id="" tvg-name="UK: France 24 FHD" tvg-logo="" group-title="United Kingdom",UK: France 24 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160406
-#EXTINF:-1 tvg-id="" tvg-name="UK: Channel 4 FHD" tvg-logo="" group-title="United Kingdom",UK: Channel 4 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160405
-#EXTINF:-1 tvg-id="" tvg-name="UK: Smithsonian FHD" tvg-logo="" group-title="United Kingdom",UK: Smithsonian FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160404
-#EXTINF:-1 tvg-id="" tvg-name="UK: SportyStuff FHD" tvg-logo="" group-title="United Kingdom",UK: SportyStuff FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160403
-#EXTINF:-1 tvg-id="" tvg-name="UK: Comedy Central FHD" tvg-logo="" group-title="United Kingdom",UK: Comedy Central FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160402
-#EXTINF:-1 tvg-id="" tvg-name="UK: MTV FHD" tvg-logo="" group-title="United Kingdom",UK: MTV FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160401
-#EXTINF:-1 tvg-id="" tvg-name="UK: Nick Jr FHD" tvg-logo="" group-title="United Kingdom",UK: Nick Jr FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160400
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV FHD" tvg-logo="" group-title="United Kingdom",UK: ITV FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160399
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV3 FHD" tvg-logo="" group-title="United Kingdom",UK: ITV3 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160398
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV2 FHD" tvg-logo="" group-title="United Kingdom",UK: ITV2 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160397
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC News FHD" tvg-logo="" group-title="United Kingdom",UK: BBC News FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160396
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC One FHD" tvg-logo="" group-title="United Kingdom",UK: BBC One FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160395
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC Two FHD" tvg-logo="" group-title="United Kingdom",UK: BBC Two FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160394
-#EXTINF:-1 tvg-id="" tvg-name="UK: Channel 5 FHD" tvg-logo="" group-title="United Kingdom",UK: Channel 5 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160393
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV4 FHD" tvg-logo="" group-title="United Kingdom",UK: ITV4 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160392
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Documentaries FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Documentaries FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160391
-#EXTINF:-1 tvg-id="" tvg-name="UK: UTV FHD" tvg-logo="" group-title="United Kingdom",UK: UTV FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160390
-#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 1 FHD UK" tvg-logo="" group-title="United Kingdom",UK: Premier Sports 1 FHD UK
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160389
-#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 2 FHD UK" tvg-logo="" group-title="United Kingdom",UK: Premier Sports 2 FHD UK
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160388
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 1 FHD" tvg-logo="" group-title="United Kingdom",UK: Eurosport 1 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160387
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 2 FHD" tvg-logo="" group-title="United Kingdom",UK: Eurosport 2 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160386
-#EXTINF:-1 tvg-id="" tvg-name="UK: Racing TV FHD" tvg-logo="" group-title="United Kingdom",UK: Racing TV FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160385
-#EXTINF:-1 tvg-id="" tvg-name="UK: eirSport 1 FHD" tvg-logo="" group-title="United Kingdom",UK: eirSport 1 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160384
-#EXTINF:-1 tvg-id="" tvg-name="UK: eirSport 2 FHD" tvg-logo="" group-title="United Kingdom",UK: eirSport 2 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160383
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 FHD" tvg-logo="" group-title="United Kingdom",UK: BT Sport 1 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160382
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2 FHD" tvg-logo="" group-title="United Kingdom",UK: BT Sport 2 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160381
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 FHD" tvg-logo="" group-title="United Kingdom",UK: BT Sport 3 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160380
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport ESPN FHD" tvg-logo="" group-title="United Kingdom",UK: BT Sport ESPN FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160379
-#EXTINF:-1 tvg-id="" tvg-name="UK: LFC TV HD" tvg-logo="" group-title="United Kingdom",UK: LFC TV HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160378
-#EXTINF:-1 tvg-id="" tvg-name="UK: Boomerang HD" tvg-logo="" group-title="United Kingdom",UK: Boomerang HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160377
-#EXTINF:-1 tvg-id="" tvg-name="UK: MUTV HD" tvg-logo="" group-title="United Kingdom",UK: MUTV HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160376
-#EXTINF:-1 tvg-id="" tvg-name="UK: RTE One HD" tvg-logo="" group-title="United Kingdom",UK: RTE One HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160375
-#EXTINF:-1 tvg-id="" tvg-name="UK: RTE Two HD" tvg-logo="" group-title="United Kingdom",UK: RTE Two HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160374
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sony TV HD" tvg-logo="" group-title="United Kingdom",UK: Sony TV HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160373
-#EXTINF:-1 tvg-id="" tvg-name="UK: Nick Junior HD" tvg-logo="" group-title="United Kingdom",UK: Nick Junior HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160372
-#EXTINF:-1 tvg-id="" tvg-name="UK: Virgin Media Two HD" tvg-logo="" group-title="United Kingdom",UK: Virgin Media Two HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160371
-#EXTINF:-1 tvg-id="" tvg-name="UK: Virgin Media Three HD" tvg-logo="" group-title="United Kingdom",UK: Virgin Media Three HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160370
-#EXTINF:-1 tvg-id="" tvg-name="UK: Star Plus HD" tvg-logo="" group-title="United Kingdom",UK: Star Plus HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160369
-#EXTINF:-1 tvg-id="" tvg-name="UK: Star Gold HD" tvg-logo="" group-title="United Kingdom",UK: Star Gold HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160368
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sony Max HD" tvg-logo="" group-title="United Kingdom",UK: Sony Max HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160367
-#EXTINF:-1 tvg-id="" tvg-name="UK: Nick HD" tvg-logo="" group-title="United Kingdom",UK: Nick HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160366
-#EXTINF:-1 tvg-id="" tvg-name="UK: eirSport 1 HD" tvg-logo="" group-title="United Kingdom",UK: eirSport 1 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160365
-#EXTINF:-1 tvg-id="" tvg-name="UK: MTV HD" tvg-logo="" group-title="United Kingdom",UK: MTV HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160364
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Witness HD" tvg-logo="" group-title="United Kingdom",UK: Sky Witness HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160363
-#EXTINF:-1 tvg-id="" tvg-name="UK: UTV HD" tvg-logo="" group-title="United Kingdom",UK: UTV HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160362
-#EXTINF:-1 tvg-id="" tvg-name="UK: Smithsonian HD" tvg-logo="" group-title="United Kingdom",UK: Smithsonian HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160361
-#EXTINF:-1 tvg-id="" tvg-name="UK: Free Sports HD" tvg-logo="" group-title="United Kingdom",UK: Free Sports HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160360
-#EXTINF:-1 tvg-id="" tvg-name="UK: Virgin Media One HD" tvg-logo="" group-title="United Kingdom",UK: Virgin Media One HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160359
-#EXTINF:-1 tvg-id="" tvg-name="UK: Racing TV HD" tvg-logo="" group-title="United Kingdom",UK: Racing TV HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160358
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC News HD" tvg-logo="" group-title="United Kingdom",UK: BBC News HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160357
-#EXTINF:-1 tvg-id="" tvg-name="UK: eir Sports 2 HD" tvg-logo="" group-title="United Kingdom",UK: eir Sports 2 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160356
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV4 HD" tvg-logo="" group-title="United Kingdom",UK: ITV4 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160355
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV HD" tvg-logo="" group-title="United Kingdom",UK: ITV HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160354
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC One HD" tvg-logo="" group-title="United Kingdom",UK: BBC One HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160353
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC TWO HD" tvg-logo="" group-title="United Kingdom",UK: BBC TWO HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160352
-#EXTINF:-1 tvg-id="" tvg-name="UK: Channel 5 HD" tvg-logo="" group-title="United Kingdom",UK: Channel 5 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160351
-#EXTINF:-1 tvg-id="" tvg-name="UK: Channel 4 HD" tvg-logo="" group-title="United Kingdom",UK: Channel 4 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160350
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC One NI HD" tvg-logo="" group-title="United Kingdom",UK: BBC One NI HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160349
-#EXTINF:-1 tvg-id="" tvg-name="UK: RT HD" tvg-logo="" group-title="United Kingdom",UK: RT HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160348
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV2 HD" tvg-logo="" group-title="United Kingdom",UK: ITV2 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160347
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV3 HD" tvg-logo="" group-title="United Kingdom",UK: ITV3 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160346
-#EXTINF:-1 tvg-id="" tvg-name="UK: Quest HD" tvg-logo="" group-title="United Kingdom",UK: Quest HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160345
-#EXTINF:-1 tvg-id="" tvg-name="UK: Bloomberg HD" tvg-logo="" group-title="United Kingdom",UK: Bloomberg HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160344
-#EXTINF:-1 tvg-id="" tvg-name="UK: COLORS HD" tvg-logo="" group-title="United Kingdom",UK: COLORS HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160343
-#EXTINF:-1 tvg-id="" tvg-name="UK: TRT World HD" tvg-logo="" group-title="United Kingdom",UK: TRT World HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160342
-#EXTINF:-1 tvg-id="" tvg-name="UK: CNN HD" tvg-logo="" group-title="United Kingdom",UK: CNN HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160341
-#EXTINF:-1 tvg-id="" tvg-name="UK: TG4 HD" tvg-logo="" group-title="United Kingdom",UK: TG4 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160340
-#EXTINF:-1 tvg-id="" tvg-name="UK: H2 HD" tvg-logo="" group-title="United Kingdom",UK: H2 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160339
-#EXTINF:-1 tvg-id="" tvg-name="UK: STV HD" tvg-logo="" group-title="United Kingdom",UK: STV HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160338
-#EXTINF:-1 tvg-id="" tvg-name="UK: FILM4 HD" tvg-logo="" group-title="United Kingdom",UK: FILM4 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160337
-#EXTINF:-1 tvg-id="" tvg-name="UK: E! Entertainment HD" tvg-logo="" group-title="United Kingdom",UK: E! Entertainment HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160336
-#EXTINF:-1 tvg-id="" tvg-name="UK: Natgeo Wild HD" tvg-logo="" group-title="United Kingdom",UK: Natgeo Wild HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160335
-#EXTINF:-1 tvg-id="" tvg-name="UK: E4 HD" tvg-logo="" group-title="United Kingdom",UK: E4 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160334
-#EXTINF:-1 tvg-id="" tvg-name="UK: FOX HD" tvg-logo="" group-title="United Kingdom",UK: FOX HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160333
-#EXTINF:-1 tvg-id="" tvg-name="UK: Crime Investigation HD" tvg-logo="" group-title="United Kingdom",UK: Crime Investigation HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160332
-#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery HD" tvg-logo="" group-title="United Kingdom",UK: Discovery HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160331
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 1 HD" tvg-logo="" group-title="United Kingdom",UK: Eurosport 1 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160330
-#EXTINF:-1 tvg-id="" tvg-name="UK: History HD" tvg-logo="" group-title="United Kingdom",UK: History HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160329
-#EXTINF:-1 tvg-id="" tvg-name="UK: Comedy Central HD" tvg-logo="" group-title="United Kingdom",UK: Comedy Central HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160328
-#EXTINF:-1 tvg-id="" tvg-name="UK: SyFy HD" tvg-logo="" group-title="United Kingdom",UK: SyFy HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160327
-#EXTINF:-1 tvg-id="" tvg-name="UK: Alibi HD" tvg-logo="" group-title="United Kingdom",UK: Alibi HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160326
-#EXTINF:-1 tvg-id="" tvg-name="UK: Cartoon Network HD" tvg-logo="" group-title="United Kingdom",UK: Cartoon Network HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160325
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 2 HD" tvg-logo="" group-title="United Kingdom",UK: Eurosport 2 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160324
-#EXTINF:-1 tvg-id="" tvg-name="UK: TLC HD" tvg-logo="" group-title="United Kingdom",UK: TLC HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160323
-#EXTINF:-1 tvg-id="" tvg-name="UK: Gold HD" tvg-logo="" group-title="United Kingdom",UK: Gold HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160322
-#EXTINF:-1 tvg-id="" tvg-name="UK: NatGeo HD" tvg-logo="" group-title="United Kingdom",UK: NatGeo HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160321
-#EXTINF:-1 tvg-id="" tvg-name="UK: Dave HD" tvg-logo="" group-title="United Kingdom",UK: Dave HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160320
-#EXTINF:-1 tvg-id="" tvg-name="UK: Watch HD" tvg-logo="" group-title="United Kingdom",UK: Watch HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160319
-#EXTINF:-1 tvg-id="" tvg-name="UK: More4 HD" tvg-logo="" group-title="United Kingdom",UK: More4 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160318
-#EXTINF:-1 tvg-id="" tvg-name="UK: S4C HD" tvg-logo="" group-title="United Kingdom",UK: S4C HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160317
-#EXTINF:-1 tvg-id="" tvg-name="UK: LaLiga HD" tvg-logo="" group-title="United Kingdom",UK: LaLiga HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160316
-#EXTINF:-1 tvg-id="" tvg-name="UK: Create & Craft HD" tvg-logo="" group-title="United Kingdom",UK: Create & Craft HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160315
-#EXTINF:-1 tvg-id="" tvg-name="UK: Iran International HD" tvg-logo="" group-title="United Kingdom",UK: Iran International HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160314
-#EXTINF:-1 tvg-id="" tvg-name="UK: Ideal World HD" tvg-logo="" group-title="United Kingdom",UK: Ideal World HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160313
-#EXTINF:-1 tvg-id="" tvg-name="UK: Love World HD" tvg-logo="" group-title="United Kingdom",UK: Love World HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160312
-#EXTINF:-1 tvg-id="" tvg-name="UK: NHK World HD" tvg-logo="" group-title="United Kingdom",UK: NHK World HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160311
-#EXTINF:-1 tvg-id="" tvg-name="UK: France 24 HD" tvg-logo="" group-title="United Kingdom",UK: France 24 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160310
-#EXTINF:-1 tvg-id="" tvg-name="UK: CBeebies HD" tvg-logo="" group-title="United Kingdom",UK: CBeebies HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160309
-#EXTINF:-1 tvg-id="" tvg-name="UK: CBBC HD" tvg-logo="" group-title="United Kingdom",UK: CBBC HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160308
-#EXTINF:-1 tvg-id="" tvg-name="UK: Al Jazeera HD" tvg-logo="" group-title="United Kingdom",UK: Al Jazeera HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160307
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Animation HD" tvg-logo="" group-title="United Kingdom",UK: Sky Animation HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160306
-#EXTINF:-1 tvg-id="" tvg-name="UK: BOXNATION" tvg-logo="" group-title="United Kingdom",UK: BOXNATION
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160305
-#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 1" tvg-logo="" group-title="United Kingdom",UK: Premier Sports 1
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160304
-#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 2" tvg-logo="" group-title="United Kingdom",UK: Premier Sports 2
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160303
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="United Kingdom",UK: BT Sport 1 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160302
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="United Kingdom",UK: BT Sport 2 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160301
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="United Kingdom",UK: BT Sport 3 HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160300
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT ESPN HD" tvg-logo="" group-title="United Kingdom",UK: BT ESPN HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160299
-#EXTINF:-1 tvg-id="" tvg-name="UK: NXT Play Premier Test" tvg-logo="https://ibb.co/1R30K7h" group-title="United Kingdom",UK: NXT Play Premier Test
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/137685
 
-;Spenien
-XTINF:-1 tvg-id="syfy.es" tvg-name="ES: SYFY FHD" tvg-logo="https://logo.iptveditor.com/syfy.png" group-title="Spain",ES: SYFY FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120210
-#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES: TNT FHD" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="Spain",ES: TNT FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120209
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 FHD" tvg-logo="https://logo.iptveditor.com/la1.png" group-title="Spain",ES: LA 1 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120208
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="Spain",ES: ANTENA 3 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120207
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO FHD" tvg-logo="https://logo.iptveditor.com/cuatro.png" group-title="Spain",ES: CUATRO FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120206
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO FHD" tvg-logo="https://logo.iptveditor.com/telecinco.png" group-title="Spain",ES: TELECINCO FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120205
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="https://logo.iptveditor.com/lasexta.png" group-title="Spain",ES: LA SEXTA FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120204
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: 24 HORAS" tvg-logo="https://logo.iptveditor.com/24horas.png" group-title="Spain",ES: 24 HORAS
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120203
-#EXTINF:-1 tvg-id="disneyplus.es" tvg-name="ES: DISNEY +" tvg-logo="https://logo.iptveditor.com/disney+.png" group-title="Spain",ES: DISNEY +
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120202
-#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="ES: DISNEY JR" tvg-logo="https://logo.iptveditor.com/disneyjr.png" group-title="Spain",ES: DISNEY JR
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120201
-#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="https://logo.iptveditor.com/disneychannel.png" group-title="Spain",ES: DISNEY CHANNEL FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120200
-#EXTINF:-1 tvg-id="boing.es" tvg-name="ES: BOING" tvg-logo="https://logo.iptveditor.com/boing.png" group-title="Spain",ES: BOING
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120199
-#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES: CANAL PANDA" tvg-logo="https://logo.iptveditor.com/canalpanda.png" group-title="Spain",ES: CANAL PANDA
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120198
-#EXTINF:-1 tvg-id="babytv.es" tvg-name="ES: BABY TV" tvg-logo="https://logo.iptveditor.com/babytv.png" group-title="Spain",ES: BABY TV
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120197
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES: NICKELODEON FHD" tvg-logo="https://logo.iptveditor.com/nickelodeon.png" group-title="Spain",ES: NICKELODEON FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120196
-#EXTINF:-1 tvg-id="nickjr.es" tvg-name="ES: NICK JR" tvg-logo="https://logo.iptveditor.com/nickjr.png" group-title="Spain",ES: NICK JR
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120195
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LA LIGA FHD" tvg-logo="https://logo.iptveditor.com/movistarlaliga.png" group-title="Spain",ES: MOVISTAR LA LIGA FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120194
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTE FHD" tvg-logo="https://logo.iptveditor.com/movistardeporte.png" group-title="Spain",ES: MOVISTAR DEPORTE FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120193
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTE 1" tvg-logo="https://2.bp.blogspot.com/-8mLu2X5P1AE/W6asqhUsLBI/AAAAAAAAIdA/QQbF1vgq8KkoCRs5zlNkJkhuUHFpo0VTQCLcBGAs/s1600/xmovistar-deportes1.jpg.pagespeed.ic.SoG88VrpZw.jpg" group-title="Spain",ES: MOVISTAR DEPORTE 1
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120192
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="Spain",ES: EUROSPORT 1 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120191
-#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: Eurosport 2" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="Spain",ES: Eurosport 2
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120190
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR F1 FHD" tvg-logo="https://logo.iptveditor.com/movistarf1.png" group-title="Spain",ES: MOVISTAR F1 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120189
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ESTRENOS FHD" tvg-logo="https://logo.iptveditor.com/movistarestrenos.png" group-title="Spain",ES: MOVISTAR ESTRENOS FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120188
-#EXTINF:-1 tvg-id="" tvg-name="ES: 0# FHD" tvg-logo="https://pbs.twimg.com/profile_images/899531826238296064/VQHzZFKD.jpg" group-title="Spain",ES: 0# FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120187
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="https://logo.iptveditor.com/cazaypesca.png" group-title="Spain",ES: CAZA Y PESCA FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120186
-#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES: BLAZE" tvg-logo="https://logo.iptveditor.com/blaze.png" group-title="Spain",ES: BLAZE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120185
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL ODISEA" tvg-logo="https://logo.iptveditor.com/canalodisea.png" group-title="Spain",ES: CANAL ODISEA
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120184
-#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ES: DISCOVERY CHANNEL" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="Spain",ES: DISCOVERY CHANNEL
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120183
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS FHD" tvg-logo="https://logo.iptveditor.com/toros.png" group-title="Spain",ES: TOROS FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120182
-#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: REAL MADRID TV" tvg-logo="https://logo.iptveditor.com/realmadridtv.png" group-title="Spain",ES: REAL MADRID TV
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120181
-#EXTINF:-1 tvg-id="barcatv.es" tvg-name="ES: BARCA TV" tvg-logo="https://logo.iptveditor.com/barcatv.png" group-title="Spain",ES: BARCA TV
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120180
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: MOVISTAR ACCION FHD" tvg-logo="https://logo.iptveditor.com/movistaraccion.png" group-title="Spain",ES: MOVISTAR ACCION FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120179
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: MOVISTAR COMEDIA FHD" tvg-logo="https://logo.iptveditor.com/movistarcomedia.png" group-title="Spain",ES: MOVISTAR COMEDIA FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120178
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: MOVISTAR DRAMA FHD" tvg-logo="https://logo.iptveditor.com/movistardrama.png" group-title="Spain",ES: MOVISTAR DRAMA FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120177
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="ES: MOVISTAR CINE Ñ" tvg-logo="https://logo.iptveditor.com/movistarcineñ.png" group-title="Spain",ES: MOVISTAR CINE Ñ
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120176
-#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="https://logo.iptveditor.com/hollywood.png" group-title="Spain",ES: HOLLYWOOD FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120175
-#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM FHD" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="Spain",ES: TCM FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120174
-#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://logo.iptveditor.com/paramountchannel.png" group-title="Spain",ES: PARAMOUNT CHANNEL
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120173
-#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: MOVISTAR SERIES FHD" tvg-logo="https://logo.iptveditor.com/movistarseries.png" group-title="Spain",ES: MOVISTAR SERIES FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120172
-#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="ES: MOVISTAR SERIESMANIA FHD" tvg-logo="https://logo.iptveditor.com/movistarseriesmania.png" group-title="Spain",ES: MOVISTAR SERIESMANIA FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120171
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: CALLE 13 FHD" tvg-logo="https://logo.iptveditor.com/calle13.png" group-title="Spain",ES: CALLE 13 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120170
-#EXTINF:-1 tvg-id="foxlife.es" tvg-name="ES: FOX LIFE FHD" tvg-logo="https://logo.iptveditor.com/foxlife.png" group-title="Spain",ES: FOX LIFE FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120169
-#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN FHD" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="Spain",ES: AXN FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120168
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: AXN WHITE FHD" tvg-logo="https://logo.iptveditor.com/axnwhite.png" group-title="Spain",ES: AXN WHITE FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120167
-#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC FHD" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="Spain",ES: AMC FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120166
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES: COSMO" tvg-logo="https://logo.iptveditor.com/cosmo.png" group-title="Spain",ES: COSMO
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120165
-#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="Spain",ES: COMEDY CENTRAL FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120164
-#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES: CRIMEN + INVESTIGACION HD" tvg-logo="http://www.grupocomunica.com/wp-content/uploads/2016/10/crimen-investigacion-sabias-que.jpg" group-title="Spain",ES: CRIMEN + INVESTIGACION HD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120163
-#EXTINF:-1 tvg-id="neox.es" tvg-name="ES: NEOX" tvg-logo="https://logo.iptveditor.com/neox.png" group-title="Spain",ES: NEOX
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120162
-#EXTINF:-1 tvg-id="nova.es" tvg-name="ES: NOVA" tvg-logo="https://logo.iptveditor.com/nova.png" group-title="Spain",ES: NOVA
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120161
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1" tvg-logo="https://logo.iptveditor.com/la1.png" group-title="Spain",ES: LA 1
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120160
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2" tvg-logo="https://logo.iptveditor.com/la2.png" group-title="Spain",ES: LA 2
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120159
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO" tvg-logo="https://logo.iptveditor.com/cuatro.png" group-title="Spain",ES: CUATRO
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120158
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO" tvg-logo="https://logo.iptveditor.com/telecinco.png" group-title="Spain",ES: TELECINCO
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120157
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS" tvg-logo="https://logo.iptveditor.com/#vamos.png" group-title="Spain",ES: #VAMOS
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120156
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA" tvg-logo="https://logo.iptveditor.com/laliga.png" group-title="Spain",ES: LA LIGA
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120155
-#EXTINF:-1 tvg-id="energy.es" tvg-name="ES: ENERGY" tvg-logo="https://logo.iptveditor.com/energy.png" group-title="Spain",ES: ENERGY
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120154
-#EXTINF:-1 tvg-id="" tvg-name="ES: Viajar FHD" tvg-logo="https://logo.iptveditor.com/viajar.png" group-title="Spain",ES: Viajar FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120153
-#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES: TNT" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="Spain",ES: TNT
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120152
-#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="Spain",ES: TCM
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120151
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: National Geographic" tvg-logo="https://logo.iptveditor.com/nationalgeographic.png" group-title="Spain",ES: National Geographic
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120150
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="Spain",ES: NAT GEO WILD FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120149
-#EXTINF:-1 tvg-id="fox.es" tvg-name="ES: Fox" tvg-logo="https://logo.iptveditor.com/fox.png" group-title="Spain",ES: Fox
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120148
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: CALLE 13" tvg-logo="https://logo.iptveditor.com/calle13.png" group-title="Spain",ES: CALLE 13
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120147
-#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="Spain",ES: AXN
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120146
-#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="Spain",ES: AMC
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120145
-#EXTINF:-1 tvg-id="" tvg-name="ES: 0#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="Spain",ES: 0#
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120144
-#EXTINF:-1 tvg-id="" tvg-name="ES: Viajar" tvg-logo="https://logo.iptveditor.com/viajar.png" group-title="Spain",ES: Viajar
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120143
-#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES: TELEDEPORTE" tvg-logo="https://logo.iptveditor.com/teledeporte.png" group-title="Spain",ES: TELEDEPORTE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120142
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES: SYFY" tvg-logo="https://logo.iptveditor.com/syfy.png" group-title="Spain",ES: SYFY
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120141
-#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES: SUNDANCE" tvg-logo="https://logo.iptveditor.com/sundance.png" group-title="Spain",ES: SUNDANCE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120140
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES: NICKELODEON" tvg-logo="https://logo.iptveditor.com/nickelodeon.png" group-title="Spain",ES: NICKELODEON
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120139
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTE" tvg-logo="https://logo.iptveditor.com/multideporte.png" group-title="Spain",ES: MULTIDEPORTE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120138
-#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="ES: MOVISTAR SERIESMANIA" tvg-logo="https://logo.iptveditor.com/movistarseriesmania.png" group-title="Spain",ES: MOVISTAR SERIESMANIA
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120137
-#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: MOVISTAR SERIES" tvg-logo="https://logo.iptveditor.com/movistarseries.png" group-title="Spain",ES: MOVISTAR SERIES
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120136
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR F1" tvg-logo="https://logo.iptveditor.com/movistarf1.png" group-title="Spain",ES: MOVISTAR F1
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120135
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: MOVISTAR ESTRENOS" tvg-logo="https://logo.iptveditor.com/movistarestrenos.png" group-title="Spain",ES: MOVISTAR ESTRENOS
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120134
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: MOVISTAR DRAMA" tvg-logo="https://logo.iptveditor.com/movistardrama.png" group-title="Spain",ES: MOVISTAR DRAMA
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120133
-#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES: MOVISTAR DEPORTE 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png" group-title="Spain",ES: MOVISTAR DEPORTE 1 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120132
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: MOVISTAR COMEDIA" tvg-logo="https://logo.iptveditor.com/movistarcomedia.png" group-title="Spain",ES: MOVISTAR COMEDIA
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120131
-#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="ES: MOVISTAR CINEDOC&ROLL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Movistar_CineDoc%26Roll.svg/1726px-Movistar_CineDoc%26Roll.svg.png" group-title="Spain",ES: MOVISTAR CINEDOC&ROLL
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120130
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS" tvg-logo="https://logo.iptveditor.com/toros.png" group-title="Spain",ES: TOROS
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120129
-#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES: MOVISTAR  GOLF" tvg-logo="https://logo.iptveditor.com/movistargolf.png" group-title="Spain",ES: MOVISTAR  GOLF
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120128
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: MOVISTAR  ACCION" tvg-logo="https://logo.iptveditor.com/movistaraccion.png" group-title="Spain",ES: MOVISTAR  ACCION
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120127
-#EXTINF:-1 tvg-id="mezzo.es" tvg-name="ES: MEZZO" tvg-logo="https://logo.iptveditor.com/mezzo.png" group-title="Spain",ES: MEZZO
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120126
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA TV BAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="Spain",ES: LIGA TV BAR
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120125
-#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES: HOLLYWOOD" tvg-logo="https://logo.iptveditor.com/hollywood.png" group-title="Spain",ES: HOLLYWOOD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120124
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA" tvg-logo="https://logo.iptveditor.com/historia.png" group-title="Spain",ES: HISTORIA
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120123
-#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL" tvg-logo="https://logo.iptveditor.com/gol.png" group-title="Spain",ES: GOL
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120122
-#EXTINF:-1 tvg-id="" tvg-name="ES: FOX NEWS" tvg-logo="https://logo.iptveditor.com/foxnews.png" group-title="Spain",ES: FOX NEWS
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120121
-#EXTINF:-1 tvg-id="foxlife.es" tvg-name="ES: FOX LIFE" tvg-logo="https://logo.iptveditor.com/foxlife.png" group-title="Spain",ES: FOX LIFE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120120
-#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="ES: Mezzo Live FHD" tvg-logo="https://logo.iptveditor.com/mezzo.png" group-title="Spain",ES: Mezzo Live FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120119
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: M. Liga Campeones FHD" tvg-logo="https://logo.iptveditor.com/mligacampeones.png" group-title="Spain",ES: M. Liga Campeones FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120118
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga Campeones 3" tvg-logo="https://logo.iptveditor.com/mligacampeones3.png" group-title="Spain",ES: M. Liga Campeones 3
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120117
-#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES: M. Liga Campeones 2" tvg-logo="https://logo.iptveditor.com/mligacampeones2.png" group-title="Spain",ES: M. Liga Campeones 2
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120116
-#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES: M. Liga Campeones 1" tvg-logo="https://logo.iptveditor.com/mligacampeones1.png" group-title="Spain",ES: M. Liga Campeones 1
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120115
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES: Movistar La Liga 3 FHD" tvg-logo="https://logo.iptveditor.com/movistarlaliga3.png" group-title="Spain",ES: Movistar La Liga 3 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120114
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES: Movistar La Liga 3" tvg-logo="https://logo.iptveditor.com/movistarlaliga3.png" group-title="Spain",ES: Movistar La Liga 3
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120113
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES: Movistar La Liga 2 FHD" tvg-logo="https://logo.iptveditor.com/movistarlaliga2.png" group-title="Spain",ES: Movistar La Liga 2 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120112
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES: Movistar La Liga 2" tvg-logo="https://logo.iptveditor.com/movistarlaliga2.png" group-title="Spain",ES: Movistar La Liga 2
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120111
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES: Movistar La Liga 1" tvg-logo="https://logo.iptveditor.com/movistarlaliga1.png" group-title="Spain",ES: Movistar La Liga 1
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120110
-#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="https://logo.iptveditor.com/fdf.png" group-title="Spain",ES: FDF
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120109
-#EXTINF:-1 tvg-id="" tvg-name="ES: Classica" tvg-logo="https://logo.iptveditor.com/classica.png" group-title="Spain",ES: Classica
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120108
-#EXTINF:-1 tvg-id="mtv.es" tvg-name="ES: MTV ESPANA" tvg-logo="https://logo.iptveditor.com/mtvespana.png" group-title="Spain",ES: MTV ESPANA
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120107
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES: MOVISTAR LA LIGA 1 FHD" tvg-logo="https://logo.iptveditor.com/movistarlaliga1.png" group-title="Spain",ES: MOVISTAR LA LIGA 1 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120106
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA" tvg-logo="https://logo.iptveditor.com/lasexta.png" group-title="Spain",ES: LA SEXTA
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120105
-#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV" tvg-logo="https://logo.iptveditor.com/iberaliatv.png" group-title="Spain",ES: IBERALIA TV
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120104
-#EXTINF:-1 tvg-id="fox.es" tvg-name="ES: Fox FHD" tvg-logo="https://logo.iptveditor.com/fox.png" group-title="Spain",ES: Fox FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120103
-#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES: DIVINITY" tvg-logo="https://logo.iptveditor.com/divinity.png" group-title="Spain",ES: DIVINITY
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120102
-#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGON TV INT" tvg-logo="https://logo.iptveditor.com/aragontvint.png" group-title="Spain",ES: ARAGON TV INT
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120101
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: # Vamos FHD" tvg-logo="https://logo.iptveditor.com/#vamos.png" group-title="Spain",ES: # Vamos FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120100
-#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://logo.iptveditor.com/nationalgeographicwild.png" group-title="Spain",ES: NATIONAL GEOGRAPHIC WILD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120099
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="https://logo.iptveditor.com/nationalgeographic.png" group-title="Spain",ES: NATIONAL GEOGRAPHIC FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120098
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: AXN  WHITE" tvg-logo="https://logo.iptveditor.com/axnwhite.png" group-title="Spain",ES: AXN  WHITE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120097
-#EXTINF:-1 tvg-id="bemad.es" tvg-name="ES: BE MAD" tvg-logo="https://logo.iptveditor.com/mad.png" group-title="Spain",ES: BE MAD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120096
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: CANAL COCINA" tvg-logo="https://logo.iptveditor.com/canalcocina.png" group-title="Spain",ES: CANAL COCINA
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120095
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA  Y PESCA" tvg-logo="https://logo.iptveditor.com/cazaypesca.png" group-title="Spain",ES: CAZA  Y PESCA
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120094
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES: CLAN TVE" tvg-logo="https://logo.iptveditor.com/clantve.png" group-title="Spain",ES: CLAN TVE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120093
-#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES: COMEDY  CENTRAL" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="Spain",ES: COMEDY  CENTRAL
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120092
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES: COSMO  FHD" tvg-logo="https://logo.iptveditor.com/cosmo.png" group-title="Spain",ES: COSMO  FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120091
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="ES: CANAL DECASA" tvg-logo="https://logo.iptveditor.com/canaldecasa.png" group-title="Spain",ES: CANAL DECASA
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120090
-#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES: DISNEY CHANNEL" tvg-logo="https://logo.iptveditor.com/disneychannel.png" group-title="Spain",ES: DISNEY CHANNEL
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120089
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="Spain",ES: EUROSPORT 1
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120088
-#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn F1" tvg-logo="" group-title="Spain",ES: Dazn F1
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120087
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. Crimen" tvg-logo="" group-title="Spain",ES: M. Crimen
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120086
-#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn F1 FHD" tvg-logo="" group-title="Spain",ES: Dazn F1 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120085
-#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 3" tvg-logo="https://logo.iptveditor.com/dazn3.png" group-title="Spain",ES: Dazn 3
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120084
-#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 3 FHD" tvg-logo="https://logo.iptveditor.com/dazn3.png" group-title="Spain",ES: Dazn 3 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120083
-#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 4" tvg-logo="https://logo.iptveditor.com/dazn4.png" group-title="Spain",ES: Dazn 4
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120082
-#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 4 FHD" tvg-logo="https://logo.iptveditor.com/dazn4.png" group-title="Spain",ES: Dazn 4 FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/120081
+#EXTINF:-1 tvg-id="" tvg-name="##### SWEDEN #####" tvg-logo="https://cdn.countryflags.com/thumbs/sweden/flag-waving-250.png" group-title="EU| SWEDEN",##### SWEDEN #####
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242862
+#EXTINF:-1 tvg-id="" tvg-name="|SW|SVT Kunskapskanalen HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVTKunskapskanalen.png" group-title="EU| SWEDEN",|SW|SVT Kunskapskanalen HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242863
+#EXTINF:-1 tvg-id="" tvg-name="|SW|SVT Kunskapskanalen SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVTKunskapskanalen.png" group-title="EU| SWEDEN",|SW|SVT Kunskapskanalen SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242864
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="|SW|SVT1 HD (B" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT1.png" group-title="EU| SWEDEN",|SW|SVT1 HD (B
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242868
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="|SW|SVT1 HD (B) SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT1.png" group-title="EU| SWEDEN",|SW|SVT1 HD (B) SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242865
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="|SW|SVT1 HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT1.png" group-title="EU| SWEDEN",|SW|SVT1 HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242866
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="|SW|SVT1 SkAne SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT1.png" group-title="EU| SWEDEN",|SW|SVT1 SkAne SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242869
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="|SW|SVT1 Syd SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT1.png" group-title="EU| SWEDEN",|SW|SVT1 Syd SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242867
+#EXTINF:-1 tvg-id="svt2.se" tvg-name="|SW|SVT2 HD (B)" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT2HD.png" group-title="EU| SWEDEN",|SW|SVT2 HD (B)
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242873
+#EXTINF:-1 tvg-id="svt2.se" tvg-name="|SW|SVT2 HD (B) SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT2HD.png" group-title="EU| SWEDEN",|SW|SVT2 HD (B) SE
+http://net
